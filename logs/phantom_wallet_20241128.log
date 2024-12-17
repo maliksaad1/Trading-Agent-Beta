@@ -1,0 +1,18 @@
+2024-11-28 02:47:00,072 - phantom_wallet - ERROR - Failed to initialize Phantom wallet: Invalid Base58 string
+2024-11-28 02:48:23,242 - phantom_wallet - ERROR - Failed to initialize Phantom wallet: Invalid Base58 string
+2024-11-28 02:49:47,731 - phantom_wallet - INFO - 
+[PHANTOM WALLET CONNECTED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+2024-11-28 02:50:33,898 - phantom_wallet - INFO - 
+[PHANTOM WALLET CONNECTED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+2024-11-28 02:56:40,495 - phantom_wallet - INFO - 
+[PHANTOM WALLET CONNECTED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+2024-11-28 02:57:51,542 - phantom_wallet - INFO - 
+[PHANTOM WALLET CONNECTED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL

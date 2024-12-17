@@ -1,0 +1,34 @@
+2024-11-28 02:47:00,072 - phantom_verify - INFO - Connecting to Phantom wallet...
+2024-11-28 02:47:00,072 - phantom_verify - ERROR - Failed to connect to Phantom wallet
+2024-11-28 02:48:23,242 - phantom_verify - INFO - Connecting to Phantom wallet...
+2024-11-28 02:48:23,242 - phantom_verify - ERROR - Failed to connect to Phantom wallet
+2024-11-28 02:49:46,734 - phantom_verify - INFO - Address format valid: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+2024-11-28 02:49:46,734 - phantom_verify - INFO - Connecting to Phantom wallet...
+2024-11-28 02:49:47,921 - phantom_verify - INFO - 
+[PHANTOM WALLET VERIFIED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Network: Mainnet
+2024-11-28 02:49:47,935 - phantom_verify - INFO - 
+Wallet connection successful! You can now run the bot.
+2024-11-28 02:50:32,901 - phantom_verify - INFO - Address format valid: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+2024-11-28 02:50:32,916 - phantom_verify - INFO - Connecting to Phantom wallet...
+2024-11-28 02:50:34,101 - phantom_verify - INFO - 
+[PHANTOM WALLET VERIFIED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Network: Mainnet
+2024-11-28 02:50:34,101 - phantom_verify - INFO - 
+Wallet connection successful! You can now run the bot.
+2024-11-28 02:56:39,413 - phantom_verify - INFO - Connecting to Phantom wallet...
+2024-11-28 02:56:40,639 - phantom_verify - INFO - 
+[WALLET VERIFIED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Network: Mainnet
+2024-11-28 02:57:50,523 - phantom_verify - INFO - Connecting to Phantom wallet...
+2024-11-28 02:57:51,698 - phantom_verify - INFO - 
+[WALLET VERIFIED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Network: Mainnet

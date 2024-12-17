@@ -1,0 +1,81 @@
+2024-11-30 19:26:16,136 - system_check - INFO - 
+Running Phantom Wallet check...
+2024-11-30 19:26:16,136 - system_check - INFO - 
+=== Testing Phantom Wallet Connection ===
+2024-11-30 19:26:16,136 - system_check - INFO -  Using Phantom address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+2024-11-30 19:26:16,666 - system_check - INFO - 
+Running DexScreener API check...
+2024-11-30 19:26:16,666 - system_check - INFO - 
+=== Testing DexScreener API ===
+2024-11-30 19:26:16,666 - system_check - INFO - Testing endpoint: https://api.dexscreener.com/latest/dex/pairs/solana
+2024-11-30 19:26:17,312 - system_check - INFO - 
+Running Raydium Pools check...
+2024-11-30 19:26:17,312 - system_check - INFO - 
+=== Testing Raydium Pool Access ===
+2024-11-30 19:26:17,323 - system_check - INFO - Testing pool access for SOL/USDC
+2024-11-30 19:26:17,327 - system_check - INFO - 
+Running Trade Flow check...
+2024-11-30 19:26:17,328 - system_check - INFO - 
+=== Simulating Trade Flow ===
+2024-11-30 19:26:17,328 - system_check - INFO - 1. Testing market data retrieval...
+2024-11-30 19:26:17,403 - system_check - INFO - 
+2. Testing wallet operations...
+2024-11-30 19:26:17,674 - system_check - INFO - 
+3. Testing position sizing...
+2024-11-30 19:26:17,683 - system_check - INFO - 
+=== System Check Summary ===
+2024-11-30 19:28:13,235 - system_check - INFO - 
+Running Phantom Wallet check...
+2024-11-30 19:28:13,235 - system_check - INFO - 
+=== Testing Phantom Wallet Connection ===
+2024-11-30 19:28:13,235 - system_check - INFO -  Using Phantom address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+2024-11-30 19:28:13,753 - system_check - INFO - 
+Running DexScreener API check...
+2024-11-30 19:28:13,753 - system_check - INFO - 
+=== Testing DexScreener API ===
+2024-11-30 19:28:13,753 - system_check - INFO - 
+Testing Solana Pairs: https://api.dexscreener.com/latest/dex/pairs/solana
+2024-11-30 19:28:13,847 - system_check - INFO - Status Code: 404
+2024-11-30 19:28:13,870 - system_check - INFO - 
+Running Raydium Pools check...
+2024-11-30 19:28:13,870 - system_check - INFO - 
+=== Testing Raydium Pool Access ===
+2024-11-30 19:28:13,870 - system_check - INFO - Testing pool access for SOL/USDC
+2024-11-30 19:28:13,870 - system_check - INFO - 
+Running Trade Flow check...
+2024-11-30 19:28:13,878 - system_check - INFO - 
+=== Simulating Trade Flow ===
+2024-11-30 19:28:13,878 - system_check - INFO - 1. Testing market data retrieval...
+2024-11-30 19:28:13,951 - system_check - INFO - 
+2. Testing wallet operations...
+2024-11-30 19:28:14,245 - system_check - INFO - 
+3. Testing position sizing...
+2024-11-30 19:28:14,254 - system_check - INFO - 
+=== System Check Summary ===
+2024-11-30 19:30:25,432 - system_check - INFO - 
+Running Phantom Wallet check...
+2024-11-30 19:30:25,432 - system_check - INFO - 
+=== Testing Phantom Wallet Connection ===
+2024-11-30 19:30:25,432 - system_check - INFO -  Using Phantom address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+2024-11-30 19:30:25,925 - system_check - INFO - 
+Running DexScreener API check...
+2024-11-30 19:30:25,925 - system_check - INFO - 
+=== Testing DexScreener API ===
+2024-11-30 19:30:25,930 - system_check - INFO - 
+Testing Solana pairs retrieval...
+2024-11-30 19:30:26,132 - system_check - INFO - 
+Running Raydium Pools check...
+2024-11-30 19:30:26,132 - system_check - INFO - 
+=== Testing Raydium Pool Access ===
+2024-11-30 19:30:26,132 - system_check - INFO - Testing pool access for SOL/USDC
+2024-11-30 19:30:26,132 - system_check - INFO - 
+Running Trade Flow check...
+2024-11-30 19:30:26,134 - system_check - INFO - 
+=== Simulating Trade Flow ===
+2024-11-30 19:30:26,134 - system_check - INFO - 1. Testing market data retrieval...
+2024-11-30 19:30:26,209 - system_check - INFO - 
+2. Testing wallet operations...
+2024-11-30 19:30:26,498 - system_check - INFO - 
+3. Testing position sizing...
+2024-11-30 19:30:26,511 - system_check - INFO - 
+=== System Check Summary ===

@@ -1,0 +1,246 @@
+2024-11-28 02:06:45,641 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:06:46,762 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:06:47,773 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:06:48,787 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:06:49,805 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:06:50,819 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:06:51,824 - wallet_manager - ERROR - Failed to initialize wallet: expected a sequence of length 64 (got 32)
+2024-11-28 02:06:51,824 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:06:52,834 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:06:53,850 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:06:54,852 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:06:55,861 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:06:56,872 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:06:57,888 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:06:58,903 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:06:59,923 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:07:00,939 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:07:01,958 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:07:02,968 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:07:03,977 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:07:04,995 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:07:05,999 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:07:07,009 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:40,544 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:41,602 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:42,613 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:43,619 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:44,636 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:45,651 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:46,668 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:47,679 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:48,687 - wallet_manager - ERROR - Failed to initialize wallet: expected a sequence of length 64 (got 32)
+2024-11-28 02:08:48,687 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:49,688 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:50,702 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:51,716 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:52,737 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:53,747 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:54,756 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:55,773 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:56,781 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:57,788 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:58,792 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:08:59,796 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:09:00,804 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:09:01,805 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:09:02,816 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:09:03,830 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:09:04,833 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:09:05,850 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:09:06,862 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:09:07,882 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:09:08,885 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:09:09,889 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:18:46,169 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:18:47,247 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:18:48,256 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:18:49,264 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:18:50,267 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:18:51,339 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:18:52,356 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:18:53,373 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:18:54,389 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:18:55,402 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:18:56,416 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:18:57,435 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:18:58,435 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:18:59,450 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:19:00,466 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:19:01,482 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:19:02,483 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:19:03,499 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:19:04,512 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:20:06,911 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:20:07,984 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:20:08,988 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:20:09,991 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:20:11,007 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:20:12,021 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:20:13,038 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:20:14,055 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:20:15,069 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:20:16,070 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:32,004 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:33,053 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:34,056 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:35,076 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:36,085 - wallet_manager - ERROR - Failed to initialize wallet: expected a sequence of length 64 (got 32)
+2024-11-28 02:22:36,085 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:37,093 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:38,107 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:39,115 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:40,124 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:41,171 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:42,173 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:43,186 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:44,188 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:45,194 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:46,205 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:47,212 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:48,218 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:49,221 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:50,240 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:51,260 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:52,274 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:53,280 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:54,295 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:55,298 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:56,331 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:57,334 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:58,352 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:22:59,370 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:23:00,373 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:23:01,396 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:23:02,411 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:23:03,429 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:32,119 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:33,190 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:34,204 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:35,221 - wallet_manager - ERROR - Failed to initialize wallet: expected a sequence of length 64 (got 32)
+2024-11-28 02:26:35,227 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:36,250 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:37,266 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:38,274 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:39,295 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:40,307 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:41,395 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:42,402 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:43,415 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:44,431 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:45,437 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:46,448 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:47,451 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:48,463 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:49,478 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:50,498 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:51,511 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:26:52,525 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:31:44,717 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:31:45,761 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:31:46,768 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:31:47,782 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:31:48,784 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:31:49,802 - wallet_manager - ERROR - Failed to initialize wallet: expected a sequence of length 64 (got 32)
+2024-11-28 02:31:49,802 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:31:50,813 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:31:51,827 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:31:52,829 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:31:53,835 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:31:54,841 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:31:55,858 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:31:56,891 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:18,785 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:19,889 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:20,903 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:21,920 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:23,031 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:24,042 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:25,055 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:26,072 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:26,101 - wallet_manager - ERROR - Failed to initialize wallet: expected a sequence of length 64 (got 32)
+2024-11-28 02:33:27,093 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:28,120 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:29,140 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:30,350 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:31,364 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:32,379 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:33,393 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:34,407 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:35,429 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:36,490 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:37,494 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:38,504 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:39,519 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:40,526 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:41,530 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:33:42,540 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:50:21,611 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:50:22,673 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:50:23,692 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:50:24,710 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:50:25,743 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:50:26,760 - wallet_manager - ERROR - Failed to check balance: 'NoneType' object has no attribute 'get_balance'
+2024-11-28 02:54:12,905 - wallet_manager - ERROR - Failed to initialize wallet: expected a sequence of length 64 (got 32)
+2024-11-28 02:55:13,577 - wallet_manager - ERROR - Failed to initialize wallet: expected a sequence of length 64 (got 32)
+2024-11-28 02:56:50,660 - wallet_manager - ERROR - Failed to initialize wallet: expected a sequence of length 64 (got 32)
+2024-11-28 02:59:32,938 - wallet_manager - INFO - 
+[WALLET INITIALIZED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Max Position Size: 0.0000 SOL
+  Max Concurrent Trades: 3
+2024-11-28 03:00:38,980 - wallet_manager - INFO - 
+[WALLET INITIALIZED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Max Position Size: 0.0000 SOL
+  Max Concurrent Trades: 3
+2024-11-28 03:06:20,840 - wallet_manager - INFO - 
+[WALLET INITIALIZED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Max Position Size: 0.0000 SOL
+  Max Concurrent Trades: 999999
+2024-11-28 03:06:21,714 - wallet_manager - INFO - 
+[WALLET INITIALIZED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Max Position Size: 0.0000 SOL
+  Max Concurrent Trades: 999999
+2024-11-28 03:06:22,628 - wallet_manager - INFO - 
+[WALLET INITIALIZED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Max Position Size: 0.0000 SOL
+  Max Concurrent Trades: 999999
+2024-11-28 03:07:41,998 - wallet_manager - INFO - 
+[WALLET INITIALIZED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Max Position Size: 0.0000 SOL
+  Max Concurrent Trades: 999999
+2024-11-28 03:10:51,647 - wallet_manager - INFO - 
+[WALLET INITIALIZED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Max Position Size: 0.0000 SOL
+  Max Concurrent Trades: 999999
+2024-11-28 03:10:52,507 - wallet_manager - INFO - 
+[WALLET INITIALIZED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Max Position Size: 0.0000 SOL
+  Max Concurrent Trades: 999999
+2024-11-28 03:10:53,208 - wallet_manager - INFO - 
+[WALLET INITIALIZED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Max Position Size: 0.0000 SOL
+  Max Concurrent Trades: 999999
+2024-11-28 03:11:49,020 - wallet_manager - INFO - 
+[WALLET INITIALIZED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Max Position Size: 0.0000 SOL
+  Max Concurrent Trades: 999999

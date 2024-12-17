@@ -1,0 +1,826 @@
+2024-11-28 03:06:19,461 - live_verify - INFO - Starting live mode verification...
+2024-11-28 03:06:19,461 - live_verify - INFO - 
+1. Creating bot instance...
+2024-11-28 03:06:19,461 - live_verify - INFO - 
+2. Creating UI...
+2024-11-28 03:06:19,852 - live_verify - INFO - 
+3. Verifying wallet connection...
+2024-11-28 03:06:20,983 - live_verify - INFO - 
+[WALLET STATUS]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Mode: live_monitor
+2024-11-28 03:06:20,983 - live_verify - INFO - 
+4. Testing Scout Agent...
+2024-11-28 03:06:20,983 - live_verify - INFO - 
+5. Testing Analysis Agent...
+2024-11-28 03:06:20,983 - live_verify - INFO - 
+6. Testing Trading Agent...
+2024-11-28 03:06:21,715 - live_verify - INFO - 
+7. Testing Exit Agent...
+2024-11-28 03:06:21,715 - live_verify - INFO - 
+8. Starting monitoring...
+2024-11-28 03:06:21,715 - live_verify - INFO - Press Ctrl+C to stop
+2024-11-28 03:06:33,164 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: SOL
+  Price: $240.76000000
+  Source: Jupiter
+2024-11-28 03:06:33,633 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: USDC
+  Price: $0.99860000
+  Source: Jupiter
+2024-11-28 03:06:33,890 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: USDT
+  Price: $1.00130000
+  Source: Jupiter
+2024-11-28 03:06:34,114 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: PYUSD
+  Price: $1.00018000
+  Source: Jupiter
+2024-11-28 03:06:34,342 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: $WIF
+  Price: $3.14000000
+  Source: Jupiter
+2024-11-28 03:06:34,571 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: POPCAT
+  Price: $1.31000000
+  Source: Jupiter
+2024-11-28 03:06:34,875 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: JitoSOL
+  Price: $277.88000000
+  Source: Jupiter
+2024-11-28 03:06:35,136 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: JUP
+  Price: $1.11000000
+  Source: Jupiter
+2024-11-28 03:06:35,373 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: Bonk
+  Price: $0.00004382
+  Source: Jupiter
+2024-11-28 03:06:35,690 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: JLP
+  Price: $4.11000000
+  Source: Jupiter
+2024-11-28 03:06:36,000 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: MUMU
+  Price: $0.00005144
+  Source: Jupiter
+2024-11-28 03:06:36,364 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: JupSOL
+  Price: $254.41000000
+  Source: Jupiter
+2024-11-28 03:06:36,828 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: SCF
+  Price: $0.03912000
+  Source: Jupiter
+2024-11-28 03:06:37,382 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: GINNAN
+  Price: $0.00000247
+  Source: Jupiter
+2024-11-28 03:06:37,850 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: wDOG
+  Price: $0.00344600
+  Source: Jupiter
+2024-11-28 03:06:38,085 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: BTW
+  Price: $0.00173700
+  Source: Jupiter
+2024-11-28 03:06:38,407 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: mSOL
+  Price: $297.26000000
+  Source: Jupiter
+2024-11-28 03:06:38,636 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: $michi
+  Price: $0.27470000
+  Source: Jupiter
+2024-11-28 03:06:39,093 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: BILLY
+  Price: $0.04985000
+  Source: Jupiter
+2024-11-28 03:06:39,386 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: FWOG
+  Price: $0.48080000
+  Source: Jupiter
+2024-11-28 03:06:39,840 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: MEW
+  Price: $0.01067000
+  Source: Jupiter
+2024-11-28 03:06:40,065 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: INF
+  Price: $301.15000000
+  Source: Jupiter
+2024-11-28 03:06:40,660 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: WBTC
+  Price: $96347.11000000
+  Source: Jupiter
+2024-11-28 03:06:40,884 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: NEIRO
+  Price: $0.00205200
+  Source: Jupiter
+2024-11-28 03:06:41,129 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: Neiro
+  Price: $0.00540400
+  Source: Jupiter
+2024-11-28 03:06:41,629 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: CATDOG
+  Price: $0.00001802
+  Source: Jupiter
+2024-11-28 03:06:41,986 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: PONKE
+  Price: $0.55960000
+  Source: Jupiter
+2024-11-28 03:06:42,489 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: nani
+  Price: $0.00000000
+  Source: Jupiter
+2024-11-28 03:06:42,968 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: ETH
+  Price: $3645.33000000
+  Source: Jupiter
+2024-11-28 03:06:43,557 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: DTW
+  Price: $0.00000000
+  Source: Jupiter
+2024-11-28 03:06:43,887 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: WOLF
+  Price: $0.00132500
+  Source: Jupiter
+2024-11-28 03:06:44,254 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: JTO
+  Price: $3.73000000
+  Source: Jupiter
+2024-11-28 03:06:44,774 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: neo
+  Price: $0.00001302
+  Source: Jupiter
+2024-11-28 03:06:45,693 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: MOTHER
+  Price: $0.04932000
+  Source: Jupiter
+2024-11-28 03:06:46,209 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: aura
+  Price: $0.02086000
+  Source: Jupiter
+2024-11-28 03:06:46,703 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: MANEKI
+  Price: $0.01028000
+  Source: Jupiter
+2024-11-28 03:06:47,005 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: SELFIE
+  Price: $0.01951000
+  Source: Jupiter
+2024-11-28 03:06:47,319 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: bSOL
+  Price: $281.66000000
+  Source: Jupiter
+2024-11-28 03:06:47,633 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: WEN
+  Price: $0.00014130
+  Source: Jupiter
+2024-11-28 03:06:48,131 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: Jajak
+  Price: $0.00011030
+  Source: Jupiter
+2024-11-28 03:06:48,952 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: thumb
+  Price: $0.00000000
+  Source: Jupiter
+2024-11-28 03:06:49,171 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: IO
+  Price: $2.82000000
+  Source: Jupiter
+2024-11-28 03:06:49,667 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: $Pooku
+  Price: $0.00005737
+  Source: Jupiter
+2024-11-28 03:06:54,324 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: RENDER
+  Price: $7.84000000
+  Source: Jupiter
+2024-11-28 03:06:54,636 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: RETARDIO
+  Price: $0.12760000
+  Source: Jupiter
+2024-11-28 03:06:54,896 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: GIGA
+  Price: $0.04322000
+  Source: Jupiter
+2024-11-28 03:06:55,383 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: FUKU
+  Price: $0.00001556
+  Source: Jupiter
+2024-11-28 03:06:55,939 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: RAY
+  Price: $5.47000000
+  Source: Jupiter
+2024-11-28 03:06:56,838 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: PCKT
+  Price: $0.00000000
+  Source: Jupiter
+2024-11-28 03:06:57,363 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: $BANE
+  Price: $0.00005780
+  Source: Jupiter
+2024-11-28 03:06:57,962 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: WALZ 
+  Price: $0.00000000
+  Source: Jupiter
+2024-11-28 03:06:58,409 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: DOLLAR
+  Price: $0.00063010
+  Source: Jupiter
+2024-11-28 03:06:58,915 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: PGN
+  Price: $0.01759000
+  Source: Jupiter
+2024-11-28 03:06:59,487 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: thumb
+  Price: $0.00363300
+  Source: Jupiter
+2024-11-28 03:07:00,106 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: BULL
+  Price: $0.00004319
+  Source: Jupiter
+2024-11-28 03:07:00,715 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: APE
+  Price: $0.00000949
+  Source: Jupiter
+2024-11-28 03:07:01,383 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: USDe
+  Price: $1.00240000
+  Source: Jupiter
+2024-11-28 03:07:01,861 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: Minion
+  Price: $0.00075410
+  Source: Jupiter
+2024-11-28 03:07:02,092 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: DADDY
+  Price: $0.07246000
+  Source: Jupiter
+2024-11-28 03:07:02,349 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: DUCKY
+  Price: $0.00040980
+  Source: Jupiter
+2024-11-28 03:07:02,969 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: DRC
+  Price: $0.00001065
+  Source: Jupiter
+2024-11-28 03:07:03,483 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: bicho
+  Price: $0.00021900
+  Source: Jupiter
+2024-11-28 03:07:04,066 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: Kieth
+  Price: $0.00092100
+  Source: Jupiter
+2024-11-28 03:07:05,752 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: hSOL
+  Price: $252.82000000
+  Source: Jupiter
+2024-11-28 03:07:06,456 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: WL
+  Price: $0.00001056
+  Source: Jupiter
+2024-11-28 03:07:07,611 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: ORE
+  Price: $39.05800000
+  Source: Jupiter
+2024-11-28 03:07:08,160 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: coconut
+  Price: $0.00003755
+  Source: Jupiter
+2024-11-28 03:07:08,623 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: SC
+  Price: $0.01421000
+  Source: Jupiter
+2024-11-28 03:07:08,938 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: HNT
+  Price: $6.37000000
+  Source: Jupiter
+2024-11-28 03:07:09,441 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: DMAGA
+  Price: $0.00405600
+  Source: Jupiter
+2024-11-28 03:07:10,056 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: BRAINLET
+  Price: $0.02477000
+  Source: Jupiter
+2024-11-28 03:07:10,574 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: TRUMP
+  Price: $1.82000000
+  Source: Jupiter
+2024-11-28 03:07:11,067 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: BLOOP
+  Price: $0.00001439
+  Source: Jupiter
+2024-11-28 03:07:11,587 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: rocky
+  Price: $0.00394500
+  Source: Jupiter
+2024-11-28 03:07:11,898 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: BOME
+  Price: $0.00891800
+  Source: Jupiter
+2024-11-28 03:07:12,409 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: hehe
+  Price: $0.02222000
+  Source: Jupiter
+2024-11-28 03:07:12,933 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: wCHILD
+  Price: $0.00000000
+  Source: Jupiter
+2024-11-28 03:07:14,552 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: mini
+  Price: $0.03586000
+  Source: Jupiter
+2024-11-28 03:07:15,079 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: FROSTY
+  Price: $0.00003313
+  Source: Jupiter
+2024-11-28 03:07:15,583 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: wCAT
+  Price: $0.00006666
+  Source: Jupiter
+2024-11-28 03:07:16,182 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: GMaI
+  Price: $0.00000000
+  Source: Jupiter
+2024-11-28 03:07:16,780 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: NOS
+  Price: $3.44000000
+  Source: Jupiter
+2024-11-28 03:07:17,118 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: ISC
+  Price: $1.81000000
+  Source: Jupiter
+2024-11-28 03:07:17,346 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: nomnom
+  Price: $0.02675000
+  Source: Jupiter
+2024-11-28 03:07:17,933 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: $Doogle
+  Price: $0.00000000
+  Source: Jupiter
+2024-11-28 03:07:18,449 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: MANIFEST
+  Price: $0.00940900
+  Source: Jupiter
+2024-11-28 03:07:18,904 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: USDY
+  Price: $1.06100000
+  Source: Jupiter
+2024-11-28 03:07:19,369 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: LOCKIN
+  Price: $0.06766000
+  Source: Jupiter
+2024-11-28 03:07:19,874 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: TT
+  Price: $0.00000000
+  Source: Jupiter
+2024-11-28 03:07:20,397 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: MONGY
+  Price: $0.00022210
+  Source: Jupiter
+2024-11-28 03:07:20,888 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: ticker
+  Price: $0.00001155
+  Source: Jupiter
+2024-11-28 03:07:22,965 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: CHANGO
+  Price: $0.00010030
+  Source: Jupiter
+2024-11-28 03:07:24,801 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: tremp
+  Price: $0.08430000
+  Source: Jupiter
+2024-11-28 03:07:25,297 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: KMNO
+  Price: $0.13370000
+  Source: Jupiter
+2024-11-28 03:07:25,845 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: nub
+  Price: $0.02025000
+  Source: Jupiter
+2024-11-28 03:07:26,337 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: RAWDOG
+  Price: $0.00001027
+  Source: Jupiter
+2024-11-28 03:07:26,895 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: SSC
+  Price: $0.00000000
+  Source: Jupiter
+2024-11-28 03:07:27,787 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: $MYRO
+  Price: $0.11010000
+  Source: Jupiter
+2024-11-28 03:07:28,285 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: SIGMA
+  Price: $0.07251000
+  Source: Jupiter
+2024-11-28 03:07:28,751 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: SMILEK
+  Price: $0.00000186
+  Source: Jupiter
+2024-11-28 03:07:29,276 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: SRMet
+  Price: $0.00000000
+  Source: Jupiter
+2024-11-28 03:10:50,537 - live_verify - INFO - Starting live mode verification...
+2024-11-28 03:10:50,537 - live_verify - INFO - 
+1. Creating bot instance...
+2024-11-28 03:10:50,537 - live_verify - INFO - 
+2. Creating UI...
+2024-11-28 03:10:50,635 - live_verify - INFO - 
+3. Verifying wallet connection...
+2024-11-28 03:10:51,789 - live_verify - INFO - 
+[WALLET STATUS]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Mode: live_monitor
+2024-11-28 03:10:51,789 - live_verify - INFO - 
+4. Testing Scout Agent...
+2024-11-28 03:10:51,789 - live_verify - INFO - 
+5. Testing Analysis Agent...
+2024-11-28 03:10:51,789 - live_verify - INFO - 
+6. Testing Trading Agent...
+2024-11-28 03:10:52,507 - live_verify - INFO - 
+7. Testing Exit Agent...
+2024-11-28 03:10:52,507 - live_verify - INFO - 
+8. Starting monitoring...
+2024-11-28 03:10:52,507 - live_verify - INFO - Press Ctrl+C to stop
+2024-11-28 03:11:03,693 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: SOL
+  Price: $240.16000000
+  Source: Jupiter
+2024-11-28 03:11:04,246 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: USDC
+  Price: $0.99860000
+  Source: Jupiter
+2024-11-28 03:11:04,751 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: USDT
+  Price: $1.00130000
+  Source: Jupiter
+2024-11-28 03:11:05,278 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: PYUSD
+  Price: $1.00018000
+  Source: Jupiter
+2024-11-28 03:11:05,570 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: $WIF
+  Price: $3.13000000
+  Source: Jupiter
+2024-11-28 03:11:05,837 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: POPCAT
+  Price: $1.30000000
+  Source: Jupiter
+2024-11-28 03:11:06,336 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: JitoSOL
+  Price: $277.38000000
+  Source: Jupiter
+2024-11-28 03:11:06,644 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: JUP
+  Price: $1.11000000
+  Source: Jupiter
+2024-11-28 03:11:06,914 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: Bonk
+  Price: $0.00004360
+  Source: Jupiter
+2024-11-28 03:11:07,244 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: JLP
+  Price: $4.11000000
+  Source: Jupiter
+2024-11-28 03:11:07,629 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: MUMU
+  Price: $0.00005132
+  Source: Jupiter
+2024-11-28 03:11:08,175 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: JupSOL
+  Price: $254.09900000
+  Source: Jupiter
+2024-11-28 03:11:09,085 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: SCF
+  Price: $0.03828000
+  Source: Jupiter
+2024-11-28 03:11:09,969 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: GINNAN
+  Price: $0.00000245
+  Source: Jupiter
+2024-11-28 03:11:10,490 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: wDOG
+  Price: $0.00343200
+  Source: Jupiter
+2024-11-28 03:11:10,744 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: BTW
+  Price: $0.00173300
+  Source: Jupiter
+2024-11-28 03:11:11,105 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: mSOL
+  Price: $296.84000000
+  Source: Jupiter
+2024-11-28 03:11:11,359 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: $michi
+  Price: $0.27390000
+  Source: Jupiter
+2024-11-28 03:11:11,626 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: BILLY
+  Price: $0.04992000
+  Source: Jupiter
+2024-11-28 03:11:11,963 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: FWOG
+  Price: $0.47980000
+  Source: Jupiter
+2024-11-28 03:11:12,449 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: MEW
+  Price: $0.00959300
+  Source: Jupiter
+2024-11-28 03:11:12,751 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: INF
+  Price: $301.23000000
+  Source: Jupiter
+2024-11-28 03:11:13,328 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: WBTC
+  Price: $96219.75000000
+  Source: Jupiter
+2024-11-28 03:11:13,815 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: NEIRO
+  Price: $0.00204500
+  Source: Jupiter
+2024-11-28 03:11:14,057 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: Neiro
+  Price: $0.00537700
+  Source: Jupiter
+2024-11-28 03:11:14,384 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: CATDOG
+  Price: $0.00001795
+  Source: Jupiter
+2024-11-28 03:11:14,758 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: PONKE
+  Price: $0.56050000
+  Source: Jupiter
+2024-11-28 03:11:15,281 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: nani
+  Price: $0.00000000
+  Source: Jupiter
+2024-11-28 03:11:15,822 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: ETH
+  Price: $3646.05000000
+  Source: Jupiter
+2024-11-28 03:11:16,340 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: DTW
+  Price: $0.00000000
+  Source: Jupiter
+2024-11-28 03:11:16,870 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: WOLF
+  Price: $0.00128100
+  Source: Jupiter
+2024-11-28 03:11:17,167 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: JTO
+  Price: $3.73000000
+  Source: Jupiter
+2024-11-28 03:11:17,685 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: neo
+  Price: $0.00001302
+  Source: Jupiter
+2024-11-28 03:11:18,233 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: MOTHER
+  Price: $0.04899000
+  Source: Jupiter
+2024-11-28 03:11:18,791 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: aura
+  Price: $0.02070000
+  Source: Jupiter
+2024-11-28 03:11:19,300 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: MANEKI
+  Price: $0.01025000
+  Source: Jupiter
+2024-11-28 03:11:19,799 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: SELFIE
+  Price: $0.01958000
+  Source: Jupiter
+2024-11-28 03:11:20,208 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: bSOL
+  Price: $281.09500000
+  Source: Jupiter
+2024-11-28 03:11:21,176 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: WEN
+  Price: $0.00014100
+  Source: Jupiter
+2024-11-28 03:11:21,671 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: Jajak
+  Price: $0.00011030
+  Source: Jupiter
+2024-11-28 03:11:22,259 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: thumb
+  Price: $0.00000000
+  Source: Jupiter
+2024-11-28 03:11:22,500 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: IO
+  Price: $2.82000000
+  Source: Jupiter
+2024-11-28 03:11:23,185 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: $Pooku
+  Price: $0.00005722
+  Source: Jupiter
+2024-11-28 03:11:23,702 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: RENDER
+  Price: $7.82000000
+  Source: Jupiter
+2024-11-28 03:11:24,040 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: RETARDIO
+  Price: $0.12700000
+  Source: Jupiter
+2024-11-28 03:11:24,363 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: GIGA
+  Price: $0.04339000
+  Source: Jupiter
+2024-11-28 03:11:24,914 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: FUKU
+  Price: $0.00001556
+  Source: Jupiter
+2024-11-28 03:11:25,233 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: RAY
+  Price: $5.48000000
+  Source: Jupiter
+2024-11-28 03:11:25,742 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: PCKT
+  Price: $0.00000000
+  Source: Jupiter
+2024-11-28 03:11:26,258 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: $BANE
+  Price: $0.00005780
+  Source: Jupiter
+2024-11-28 03:11:26,783 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: WALZ 
+  Price: $0.00000000
+  Source: Jupiter
+2024-11-28 03:11:27,288 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: DOLLAR
+  Price: $0.00062640
+  Source: Jupiter
+2024-11-28 03:11:27,870 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: PGN
+  Price: $0.01759000
+  Source: Jupiter
+2024-11-28 03:11:28,359 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: thumb
+  Price: $0.00363300
+  Source: Jupiter
+2024-11-28 03:11:28,916 - live_verify - INFO - 
+[NEW TOKEN DETECTED]
+  Symbol: BULL
+  Price: $0.00004319
+  Source: Jupiter

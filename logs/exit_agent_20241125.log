@@ -1,0 +1,224 @@
+2024-11-25 01:39:29,744 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00082770
+2024-11-25 01:39:30,593 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: quick_profit
+  Price: $0.00054310
+2024-11-25 01:40:30,377 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: timeout
+  Price: $0.37320000
+2024-11-25 01:40:32,180 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: timeout
+  Price: $0.00565100
+2024-11-25 01:40:34,278 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: timeout
+  Price: $0.00000033
+2024-11-25 01:41:53,739 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: quick_profit
+  Price: $0.00054310
+2024-11-25 01:41:53,759 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00082450
+2024-11-25 01:42:53,309 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: timeout
+  Price: $0.37320000
+2024-11-25 01:44:08,931 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00053930
+2024-11-25 01:44:08,952 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00015320
+2024-11-25 01:45:11,074 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: timeout
+  Price: $5.90000000
+2024-11-25 01:47:27,102 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: quick_profit
+  Price: $0.00054170
+2024-11-25 01:47:27,229 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00084190
+2024-11-25 01:47:31,852 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: quick_profit
+  Price: $0.00054170
+2024-11-25 01:47:32,281 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00084190
+2024-11-25 01:48:32,365 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: timeout
+  Price: $0.00565100
+2024-11-25 01:48:32,749 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: timeout
+  Price: $0.00015410
+2024-11-25 01:49:56,494 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: quick_profit
+  Price: $0.00054170
+2024-11-25 01:49:57,933 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00084230
+2024-11-25 01:50:56,471 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: timeout
+  Price: $0.00015410
+2024-11-25 01:50:58,335 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: timeout
+  Price: $0.00566800
+2024-11-25 01:55:02,999 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00015260
+2024-11-25 01:55:03,167 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: quick_profit
+  Price: $0.38380000
+2024-11-25 01:55:03,738 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: early_stop_loss
+  Price: $0.00054170
+2024-11-25 01:56:51,409 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: volatility_profit
+  Price: $0.00053910
+2024-11-25 01:58:34,253 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: quick_profit
+  Price: $0.38380000
+2024-11-25 01:58:34,438 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00015260
+2024-11-25 01:58:34,495 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: early_stop_loss
+  Price: $0.00053910
+2024-11-25 02:01:01,837 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00015210
+2024-11-25 02:01:01,892 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00053910
+2024-11-25 02:01:02,275 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: quick_profit
+  Price: $0.38380000
+2024-11-25 02:02:12,757 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: momentum_exit
+  Price: $5.87000000
+2024-11-25 02:05:06,634 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00053910
+2024-11-25 02:05:06,686 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: quick_profit
+  Price: $0.38380000
+2024-11-25 02:05:07,726 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00015210
+2024-11-25 02:06:28,445 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00015140
+2024-11-25 02:06:28,489 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00053910
+2024-11-25 02:06:28,532 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: quick_profit
+  Price: $0.38380000
+2024-11-25 02:10:57,505 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00015040
+2024-11-25 02:11:42,628 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00015040
+2024-11-25 02:11:59,945 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00015040
+2024-11-25 02:21:48,671 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: quick_profit
+  Price: $0.00108600
+  Time: 02:21:48
+2024-11-25 02:21:48,681 - exit_agent - INFO - [EXIT INFO] 1/5 sells in current 4-minute window
+2024-11-25 02:23:48,801 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: timeout
+  Price: $0.00024270
+  Time: 02:23:48
+2024-11-25 02:23:48,801 - exit_agent - INFO - [EXIT INFO] 2/5 sells in current 4-minute window
+2024-11-25 02:23:48,877 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: timeout
+  Price: $0.00006227
+  Time: 02:23:48
+2024-11-25 02:23:48,877 - exit_agent - INFO - [EXIT INFO] 3/5 sells in current 4-minute window
+2024-11-25 02:32:33,935 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: quick_stop
+  Price: $0.00005683
+  Time: 02:32:33
+2024-11-25 02:32:33,949 - exit_agent - INFO - [EXIT INFO] 1/5 sells in current 4-minute window
+2024-11-25 02:33:05,283 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: stop_loss
+  Price: $0.00074000
+  Time: 02:33:05
+2024-11-25 02:33:05,283 - exit_agent - INFO - [EXIT INFO] 2/5 sells in current 4-minute window
+2024-11-25 02:34:33,971 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: timeout
+  Price: $0.00023870
+  Time: 02:34:33
+2024-11-25 02:34:33,971 - exit_agent - INFO - [EXIT INFO] 3/5 sells in current 4-minute window
+2024-11-25 02:37:59,141 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: quick_stop
+  Price: $0.00063430
+  Time: 02:37:59
+2024-11-25 02:37:59,151 - exit_agent - INFO - [EXIT INFO] 1/5 sells in current 4-minute window
+2024-11-25 02:40:20,588 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: quick_stop
+  Price: $0.00072350
+  Time: 02:40:20
+2024-11-25 02:40:20,588 - exit_agent - INFO - [EXIT INFO] 1/5 sells in current 4-minute window
+2024-11-25 02:42:20,578 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: timeout
+  Price: $0.00008886
+  Time: 02:42:20
+2024-11-25 02:42:20,594 - exit_agent - INFO - [EXIT INFO] 2/5 sells in current 4-minute window
+2024-11-25 02:42:55,444 - exit_agent - INFO - 
+[EXECUTING EXIT]
+  Reason: take_profit
+  Price: $0.00008159
+  Time: 02:42:55
+2024-11-25 02:42:55,453 - exit_agent - INFO - [EXIT INFO] 3/5 sells in current 4-minute window

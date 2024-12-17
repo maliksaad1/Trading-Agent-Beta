@@ -1,0 +1,907 @@
+2024-11-25 00:58:38,464 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:01:21,191 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:13:58,876 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:20:09,639 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:22:54,210 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:27:59,364 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:33:21,606 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:36:12,143 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:39:27,273 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:39:29,126 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: orca
+  Price: $0.00133300
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:39:29,133 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: OPOS
+  Price: $0.37120000
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:39:29,133 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00051530
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:39:29,744 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: orca
+  Entry: $0.00133300
+  Exit: $0.00082770
+  P/L: -37.91%
+  Hold Time: 0.6 seconds
+2024-11-25 01:39:30,558 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00570100
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 01:39:30,593 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BABYSOL
+  Entry: $0.00051530
+  Exit: $0.00054310
+  P/L: 5.39%
+  Hold Time: 1.5 seconds
+2024-11-25 01:39:33,746 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: SURF
+  Price: $0.00000033
+  Amount: 0.1 SOL
+  DEX: meteora
+2024-11-25 01:40:30,377 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: OPOS
+  Entry: $0.37120000
+  Exit: $0.37320000
+  P/L: 0.54%
+  Hold Time: 61.2 seconds
+2024-11-25 01:40:32,181 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BABYSOL
+  Entry: $0.00570100
+  Exit: $0.00565100
+  P/L: -0.88%
+  Hold Time: 61.6 seconds
+2024-11-25 01:40:34,278 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: SURF
+  Entry: $0.00000033
+  Exit: $0.00000033
+  P/L: 0.98%
+  Hold Time: 60.5 seconds
+2024-11-25 01:41:52,304 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:41:52,904 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: orca
+  Price: $0.00133300
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:41:52,904 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: OPOS
+  Price: $0.37120000
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:41:52,904 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00051530
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:41:53,739 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BABYSOL
+  Entry: $0.00051530
+  Exit: $0.00054310
+  P/L: 5.39%
+  Hold Time: 0.8 seconds
+2024-11-25 01:41:53,772 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: orca
+  Entry: $0.00133300
+  Exit: $0.00082450
+  P/L: -38.15%
+  Hold Time: 0.9 seconds
+2024-11-25 01:42:53,309 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: OPOS
+  Entry: $0.37120000
+  Exit: $0.37320000
+  P/L: 0.54%
+  Hold Time: 60.4 seconds
+2024-11-25 01:44:07,695 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:44:08,350 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: LUMIO
+  Price: $0.00015540
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 01:44:08,350 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00056090
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:44:08,359 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: OPOS
+  Price: $0.36770000
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:44:08,931 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BABYSOL
+  Entry: $0.00056090
+  Exit: $0.00053930
+  P/L: -3.85%
+  Hold Time: 0.6 seconds
+2024-11-25 01:44:08,955 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: LUMIO
+  Entry: $0.00015540
+  Exit: $0.00015320
+  P/L: -1.42%
+  Hold Time: 0.6 seconds
+2024-11-25 01:44:09,985 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00570100
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 01:44:09,985 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: RAY
+  Price: $5.89000000
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 01:45:11,074 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: RAY
+  Entry: $5.89000000
+  Exit: $5.90000000
+  P/L: 0.17%
+  Hold Time: 61.1 seconds
+2024-11-25 01:47:22,009 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:47:26,261 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: orca
+  Price: $0.00133300
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:47:26,263 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: OPOS
+  Price: $0.37120000
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:47:26,272 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00051530
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:47:27,102 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BABYSOL
+  Entry: $0.00051530
+  Exit: $0.00054170
+  P/L: 5.12%
+  Hold Time: 0.8 seconds
+2024-11-25 01:47:27,229 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: orca
+  Entry: $0.00133300
+  Exit: $0.00084190
+  P/L: -36.84%
+  Hold Time: 1.0 seconds
+2024-11-25 01:47:31,601 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:47:31,711 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00570100
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 01:47:31,711 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: LUMIO
+  Price: $0.00015410
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 01:47:31,727 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00052510
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:47:31,852 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BABYSOL
+  Entry: $0.00052510
+  Exit: $0.00054170
+  P/L: 3.16%
+  Hold Time: 0.1 seconds
+2024-11-25 01:47:31,931 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: orca
+  Price: $0.00133300
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:47:32,281 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: orca
+  Entry: $0.00133300
+  Exit: $0.00084190
+  P/L: -36.84%
+  Hold Time: 0.4 seconds
+2024-11-25 01:48:32,365 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BABYSOL
+  Entry: $0.00570100
+  Exit: $0.00565100
+  P/L: -0.88%
+  Hold Time: 60.7 seconds
+2024-11-25 01:48:32,749 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: LUMIO
+  Entry: $0.00015410
+  Exit: $0.00015410
+  P/L: 0.00%
+  Hold Time: 61.0 seconds
+2024-11-25 01:49:55,129 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:49:55,912 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00570100
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 01:49:55,912 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: LUMIO
+  Price: $0.00015410
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 01:49:55,921 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00052510
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:49:56,494 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BABYSOL
+  Entry: $0.00052510
+  Exit: $0.00054170
+  P/L: 3.16%
+  Hold Time: 0.6 seconds
+2024-11-25 01:49:57,264 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: orca
+  Price: $0.00131300
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:49:57,933 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: orca
+  Entry: $0.00131300
+  Exit: $0.00084230
+  P/L: -35.85%
+  Hold Time: 0.7 seconds
+2024-11-25 01:50:56,471 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: LUMIO
+  Entry: $0.00015410
+  Exit: $0.00015410
+  P/L: 0.00%
+  Hold Time: 60.6 seconds
+2024-11-25 01:50:58,336 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BABYSOL
+  Entry: $0.00570100
+  Exit: $0.00566800
+  P/L: -0.58%
+  Hold Time: 62.4 seconds
+2024-11-25 01:53:46,278 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:53:46,907 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: orca
+  Price: $0.00131300
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:53:46,917 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: OPOS
+  Price: $0.37120000
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:53:46,917 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00051530
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:55:01,378 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:55:02,125 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: LUMIO
+  Price: $0.00015540
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 01:55:02,141 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00056090
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:55:02,142 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: OPOS
+  Price: $0.36770000
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:55:02,999 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: LUMIO
+  Entry: $0.00015540
+  Exit: $0.00015260
+  P/L: -1.80%
+  Hold Time: 0.9 seconds
+2024-11-25 01:55:03,167 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: OPOS
+  Entry: $0.36770000
+  Exit: $0.38380000
+  P/L: 4.38%
+  Hold Time: 1.0 seconds
+2024-11-25 01:55:03,352 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00570100
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 01:55:03,352 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: RAY
+  Price: $5.86000000
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 01:55:03,738 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BABYSOL
+  Entry: $0.00056090
+  Exit: $0.00054170
+  P/L: -3.42%
+  Hold Time: 1.6 seconds
+2024-11-25 01:56:50,173 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:56:50,815 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00570100
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 01:56:50,815 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: LUMIO
+  Price: $0.00015410
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 01:56:50,826 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00052510
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:56:51,413 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BABYSOL
+  Entry: $0.00052510
+  Exit: $0.00053910
+  P/L: 2.67%
+  Hold Time: 0.6 seconds
+2024-11-25 01:56:52,729 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: SURF
+  Price: $0.00000033
+  Amount: 0.1 SOL
+  DEX: meteora
+2024-11-25 01:58:33,316 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 01:58:33,928 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: LUMIO
+  Price: $0.00015540
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 01:58:33,928 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00056090
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:58:33,928 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: OPOS
+  Price: $0.36770000
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 01:58:34,253 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: OPOS
+  Entry: $0.36770000
+  Exit: $0.38380000
+  P/L: 4.38%
+  Hold Time: 0.3 seconds
+2024-11-25 01:58:34,438 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: LUMIO
+  Entry: $0.00015540
+  Exit: $0.00015260
+  P/L: -1.80%
+  Hold Time: 0.5 seconds
+2024-11-25 01:58:34,495 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BABYSOL
+  Entry: $0.00056090
+  Exit: $0.00053910
+  P/L: -3.89%
+  Hold Time: 0.6 seconds
+2024-11-25 01:58:36,246 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00570100
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 01:58:36,246 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: RAY
+  Price: $5.88000000
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 01:58:36,264 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: SAMO
+  Price: $0.01063000
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:00:58,781 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 02:00:59,355 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: LUMIO
+  Price: $0.00015540
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:00:59,355 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00056090
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 02:00:59,372 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: OPOS
+  Price: $0.36770000
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 02:01:01,837 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: LUMIO
+  Entry: $0.00015540
+  Exit: $0.00015210
+  P/L: -2.12%
+  Hold Time: 2.5 seconds
+2024-11-25 02:01:01,892 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BABYSOL
+  Entry: $0.00056090
+  Exit: $0.00053910
+  P/L: -3.89%
+  Hold Time: 2.5 seconds
+2024-11-25 02:01:02,275 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: OPOS
+  Entry: $0.36770000
+  Exit: $0.38380000
+  P/L: 4.38%
+  Hold Time: 2.9 seconds
+2024-11-25 02:01:09,968 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: soliloquy
+  Price: $0.00193700
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:02:12,757 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: RAY
+  Entry: $5.86000000
+  Exit: $5.87000000
+  P/L: 0.17%
+  Hold Time: 429.4 seconds
+2024-11-25 02:05:03,009 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 02:05:04,108 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: LUMIO
+  Price: $0.00015540
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:05:04,115 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00056090
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 02:05:04,116 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: OPOS
+  Price: $0.36770000
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 02:05:06,634 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BABYSOL
+  Entry: $0.00056090
+  Exit: $0.00053910
+  P/L: -3.89%
+  Hold Time: 2.5 seconds
+2024-11-25 02:05:06,686 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: OPOS
+  Entry: $0.36770000
+  Exit: $0.38380000
+  P/L: 4.38%
+  Hold Time: 2.6 seconds
+2024-11-25 02:05:07,726 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: LUMIO
+  Entry: $0.00015540
+  Exit: $0.00015210
+  P/L: -2.12%
+  Hold Time: 3.6 seconds
+2024-11-25 02:06:25,383 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 02:06:25,982 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: LUMIO
+  Price: $0.00015540
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:06:25,989 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00056090
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 02:06:25,989 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: OPOS
+  Price: $0.36770000
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 02:06:28,462 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: LUMIO
+  Entry: $0.00015540
+  Exit: $0.00015140
+  P/L: -2.57%
+  Hold Time: 2.5 seconds
+2024-11-25 02:06:28,490 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BABYSOL
+  Entry: $0.00056090
+  Exit: $0.00053910
+  P/L: -3.89%
+  Hold Time: 2.5 seconds
+2024-11-25 02:06:28,532 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: OPOS
+  Entry: $0.36770000
+  Exit: $0.38380000
+  P/L: 4.38%
+  Hold Time: 2.5 seconds
+2024-11-25 02:10:54,462 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 02:10:55,223 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00570100
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:10:55,236 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: LUMIO
+  Price: $0.00015410
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:10:55,238 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00052510
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 02:10:57,505 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: LUMIO
+  Entry: $0.00015410
+  Exit: $0.00015040
+  P/L: -2.40%
+  Hold Time: 2.3 seconds
+2024-11-25 02:11:39,997 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 02:11:40,082 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00570100
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:11:40,082 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: LUMIO
+  Price: $0.00015410
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:11:40,082 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00052510
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 02:11:42,628 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: LUMIO
+  Entry: $0.00015410
+  Exit: $0.00015040
+  P/L: -2.40%
+  Hold Time: 2.5 seconds
+2024-11-25 02:11:57,784 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 02:11:57,873 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00570100
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:11:57,873 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: LUMIO
+  Price: $0.00015410
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:11:57,878 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BABYSOL
+  Price: $0.00052510
+  Amount: 0.1 SOL
+  DEX: orca
+2024-11-25 02:11:59,960 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: LUMIO
+  Entry: $0.00015410
+  Exit: $0.00015040
+  P/L: -2.40%
+  Hold Time: 2.1 seconds
+2024-11-25 02:19:50,261 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: SOLSZN
+  Price: $0.00045580
+  Amount: 0.1 SOL
+  DEX: meteora
+2024-11-25 02:20:54,142 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 02:20:58,017 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: JENSEN
+  Price: $0.00108600
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:20:58,017 - trading_agent - INFO - [TRADE INFO] 1/7 trades in current 2-minute window
+2024-11-25 02:20:58,017 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BUSHBABY
+  Price: $0.00006404
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:20:58,017 - trading_agent - INFO - [TRADE INFO] 2/7 trades in current 2-minute window
+2024-11-25 02:20:58,025 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: MIMU
+  Price: $0.00024170
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:20:58,027 - trading_agent - INFO - [TRADE INFO] 3/7 trades in current 2-minute window
+2024-11-25 02:21:47,118 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 02:21:48,406 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: JENSEN
+  Price: $0.00104400
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:21:48,408 - trading_agent - INFO - [TRADE INFO] 1/7 trades in current 2-minute window
+2024-11-25 02:21:48,410 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BUSHBABY
+  Price: $0.00006301
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:21:48,410 - trading_agent - INFO - [TRADE INFO] 2/7 trades in current 2-minute window
+2024-11-25 02:21:48,411 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: MIMU
+  Price: $0.00024170
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:21:48,412 - trading_agent - INFO - [TRADE INFO] 3/7 trades in current 2-minute window
+2024-11-25 02:21:48,671 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: JENSEN
+  Entry: $0.00104400
+  Exit: $0.00108600
+  P/L: 4.02%
+  Hold Time: 0.3 seconds
+2024-11-25 02:23:48,801 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: MIMU
+  Entry: $0.00024170
+  Exit: $0.00024270
+  P/L: 0.41%
+  Hold Time: 120.4 seconds
+2024-11-25 02:23:48,877 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BUSHBABY
+  Entry: $0.00006301
+  Exit: $0.00006227
+  P/L: -1.17%
+  Hold Time: 120.5 seconds
+2024-11-25 02:32:30,439 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 02:32:33,604 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: JENSEN
+  Price: $0.00080580
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:32:33,604 - trading_agent - INFO - [TRADE INFO] 1/7 trades in current 2-minute window
+2024-11-25 02:32:33,604 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BUSHBABY
+  Price: $0.00005781
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:32:33,614 - trading_agent - INFO - [TRADE INFO] 2/7 trades in current 2-minute window
+2024-11-25 02:32:33,616 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: MIMU
+  Price: $0.00023950
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:32:33,616 - trading_agent - INFO - [TRADE INFO] 3/7 trades in current 2-minute window
+2024-11-25 02:32:33,935 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BUSHBABY
+  Entry: $0.00005781
+  Exit: $0.00005683
+  P/L: -1.70%
+  Hold Time: 0.3 seconds
+2024-11-25 02:33:05,283 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: JENSEN
+  Entry: $0.00080580
+  Exit: $0.00074000
+  P/L: -8.17%
+  Hold Time: 31.7 seconds
+2024-11-25 02:34:33,971 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: MIMU
+  Entry: $0.00023950
+  Exit: $0.00023870
+  P/L: -0.33%
+  Hold Time: 120.4 seconds
+2024-11-25 02:37:57,329 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 02:37:58,601 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: JENSEN
+  Price: $0.00065090
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:37:58,601 - trading_agent - INFO - [TRADE INFO] 1/7 trades in current 2-minute window
+2024-11-25 02:37:58,601 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BUSHBABY
+  Price: $0.00006404
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:37:58,608 - trading_agent - INFO - [TRADE INFO] 2/7 trades in current 2-minute window
+2024-11-25 02:37:58,608 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: $ORCANIZE
+  Price: $0.00008886
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:37:58,608 - trading_agent - INFO - [TRADE INFO] 3/7 trades in current 2-minute window
+2024-11-25 02:37:59,141 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: JENSEN
+  Entry: $0.00065090
+  Exit: $0.00063430
+  P/L: -2.55%
+  Hold Time: 0.5 seconds
+2024-11-25 02:40:19,057 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 02:40:20,314 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: JENSEN
+  Price: $0.00073580
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:40:20,316 - trading_agent - INFO - [TRADE INFO] 1/7 trades in current 2-minute window
+2024-11-25 02:40:20,316 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: BUSHBABY
+  Price: $0.00007466
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:40:20,316 - trading_agent - INFO - [TRADE INFO] 2/7 trades in current 2-minute window
+2024-11-25 02:40:20,323 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: $ORCANIZE
+  Price: $0.00008886
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 02:40:20,323 - trading_agent - INFO - [TRADE INFO] 3/7 trades in current 2-minute window
+2024-11-25 02:40:20,588 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: JENSEN
+  Entry: $0.00073580
+  Exit: $0.00072350
+  P/L: -1.67%
+  Hold Time: 0.3 seconds
+2024-11-25 02:42:20,594 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: $ORCANIZE
+  Entry: $0.00008886
+  Exit: $0.00008886
+  P/L: 0.00%
+  Hold Time: 120.3 seconds
+2024-11-25 02:42:55,453 - trading_agent - INFO - 
+[TEST MODE - SIMULATED SELL]
+  Token: BUSHBABY
+  Entry: $0.00007466
+  Exit: $0.00008159
+  P/L: 9.28%
+  Hold Time: 155.1 seconds
+2024-11-25 13:36:35,580 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 13:36:37,071 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: pong
+  Price: $0.00007181
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 13:36:37,072 - trading_agent - INFO - [TRADE INFO] 1/7 trades in current 2-minute window
+2024-11-25 13:36:37,074 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: LUKE
+  Price: $0.00006071
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 13:36:37,075 - trading_agent - INFO - [TRADE INFO] 2/7 trades in current 2-minute window
+2024-11-25 13:36:37,076 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: JENSEN
+  Price: $0.00067840
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 13:36:37,077 - trading_agent - INFO - [TRADE INFO] 3/7 trades in current 2-minute window
+2024-11-25 13:37:35,178 - trading_agent - INFO - [SETUP] Setting Analysis Agent callback
+2024-11-25 13:38:08,803 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: pong
+  Price: $0.00007137
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 13:38:08,809 - trading_agent - INFO - [TRADE INFO] 1/7 trades in current 2-minute window
+2024-11-25 13:38:08,809 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: LUKE
+  Price: $0.00007100
+  Amount: 0.1 SOL
+  DEX: raydium
+2024-11-25 13:38:08,814 - trading_agent - INFO - [TRADE INFO] 2/7 trades in current 2-minute window
+2024-11-25 13:38:08,817 - trading_agent - INFO - 
+[TEST MODE - SIMULATED BUY]
+  Token: hubSOL
+  Price: $265.86000000
+  Amount: 0.1 SOL
+  DEX: meteora
+2024-11-25 13:38:08,818 - trading_agent - INFO - [TRADE INFO] 3/7 trades in current 2-minute window

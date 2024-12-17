@@ -1,0 +1,29 @@
+2024-11-30 17:49:01,566 - wallet_manager - INFO - 
+[WALLET INITIALIZED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Max Position Size: 0.0000 SOL
+  Max Concurrent Trades: 999999
+2024-11-30 17:49:40,796 - wallet_manager - ERROR - Failed to check balance: 
+2024-11-30 18:07:22,800 - wallet_manager - INFO - 
+[WALLET INITIALIZED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Max Position Size: 0.0000 SOL
+  Max Concurrent Trades: 999999
+2024-11-30 18:10:49,820 - wallet_manager - INFO - 
+[WALLET INITIALIZED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Max Position Size: 0.0000 SOL
+  Max Concurrent Trades: 999999
+2024-11-30 19:18:53,235 - wallet_manager - INFO - 
+[WALLET INITIALIZED]
+  Address: CaLnEKFzDNzLCzJy4NaXfhcbFruzyEZV4VQmFUZ8Dfqk
+  Balance: 0.0000 SOL
+  Max Position Size: 0.0000 SOL
+  Max Concurrent Trades: 999999
+2024-11-30 19:19:19,539 - wallet_manager - ERROR - Failed to check balance: 
+2024-11-30 19:26:16,637 - wallet_manager - ERROR - Failed to initialize wallet: Could not connect to Phantom wallet
+2024-11-30 19:28:13,709 - wallet_manager - ERROR - Failed to initialize wallet: Could not connect to Phantom wallet
+2024-11-30 19:30:25,907 - wallet_manager - ERROR - Failed to initialize wallet: Could not connect to Phantom wallet

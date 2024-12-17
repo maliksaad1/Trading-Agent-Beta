@@ -1,0 +1,6 @@
+2024-11-30 18:10:46,997 - ui - ERROR - Error updating UI: 'NoneType' object has no attribute 'check_balance'
+2024-11-30 18:10:48,069 - ui - ERROR - Error updating UI: 'NoneType' object has no attribute 'check_balance'
+2024-11-30 19:18:48,305 - ui - ERROR - Error updating UI: 'NoneType' object has no attribute 'check_balance'
+2024-11-30 19:18:49,380 - ui - ERROR - Error updating UI: 'NoneType' object has no attribute 'check_balance'
+2024-11-30 19:18:50,389 - ui - ERROR - Error updating UI: 'NoneType' object has no attribute 'check_balance'
+2024-11-30 19:18:51,405 - ui - ERROR - Error updating UI: 'NoneType' object has no attribute 'check_balance'

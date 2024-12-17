@@ -1,0 +1,46 @@
+2024-11-30 19:30:25,930 - dexscreener - INFO - Making request to: https://api.dexscreener.com/latest/dex/pairs/solana
+2024-11-30 19:30:26,008 - dexscreener - INFO - Response status: 404
+2024-11-30 19:30:26,008 - dexscreener - ERROR - API error: 404
+URL: https://api.dexscreener.com/latest/dex/pairs/solana
+Response: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /latest/dex/pairs/solana</pre>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8eab890ecca89092',t:'MTczMjk3NzAyNi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2024-11-30 19:30:26,035 - dexscreener - INFO - Making request to: https://api.dexscreener.com/latest/dex/pairs/solana
+2024-11-30 19:30:26,058 - dexscreener - INFO - Response status: 404
+2024-11-30 19:30:26,058 - dexscreener - ERROR - API error: 404
+URL: https://api.dexscreener.com/latest/dex/pairs/solana
+Response: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /latest/dex/pairs/solana</pre>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8eab890f3d8b9092',t:'MTczMjk3NzAyNi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2024-11-30 19:30:26,071 - dexscreener - INFO - Making request to: https://api.dexscreener.com/latest/dex/pairs/solana
+2024-11-30 19:30:26,109 - dexscreener - INFO - Response status: 404
+2024-11-30 19:30:26,109 - dexscreener - ERROR - API error: 404
+URL: https://api.dexscreener.com/latest/dex/pairs/solana
+Response: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /latest/dex/pairs/solana</pre>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8eab890f6e179092',t:'MTczMjk3NzAyNi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+2024-11-30 19:30:26,116 - dexscreener - ERROR - All retry attempts failed

@@ -1,0 +1,1461 @@
+2024-11-30 17:49:01,566 - scout_agent - INFO - Added new callback with priority: True
+2024-11-30 17:49:01,566 - scout_agent - INFO - Added new callback with priority: True
+2024-11-30 17:49:01,704 - scout_agent - INFO - Starting scout agent...
+2024-11-30 17:49:07,686 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SOL
+  Price: $242.84000000
+  Liquidity: $6,214,503.54
+2024-11-30 17:49:07,701 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:07,982 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: USDC
+  Price: $0.99960000
+  Liquidity: $4,572,846.89
+2024-11-30 17:49:07,982 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:08,466 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: USDT
+  Price: $1.00050000
+  Liquidity: $391,889.05
+2024-11-30 17:49:08,474 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:08,942 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: PYUSD
+  Price: $0.99940000
+  Liquidity: $1,053,356.41
+2024-11-30 17:49:08,942 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:09,582 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: $WIF
+  Price: $3.22000000
+  Liquidity: $4,130,455.62
+2024-11-30 17:49:09,583 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:10,098 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: POPCAT
+  Price: $1.31000000
+  Liquidity: $1,538,946.33
+2024-11-30 17:49:10,106 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:14,173 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JitoSOL
+  Price: $280.96000000
+  Liquidity: $10,580,649.43
+2024-11-30 17:49:14,190 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:14,767 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JUP
+  Price: $1.16000000
+  Liquidity: $728,874.83
+2024-11-30 17:49:14,784 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:15,052 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: Bonk
+  Price: $0.00004576
+  Liquidity: $528,391.76
+2024-11-30 17:49:15,052 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:15,502 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JLP
+  Price: $4.12000000
+  Liquidity: $1,035,821.65
+2024-11-30 17:49:15,518 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:16,022 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: MUMU
+  Price: $0.00005790
+  Liquidity: $4,736,622.11
+2024-11-30 17:49:16,030 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:16,678 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JupSOL
+  Price: $258.14000000
+  Liquidity: $772,554.30
+2024-11-30 17:49:16,694 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:17,233 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SCF
+  Price: $0.02867000
+  Liquidity: $2,302,162.55
+2024-11-30 17:49:17,233 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:21,158 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: GINNAN
+  Price: $0.00000230
+  Liquidity: $997,498.04
+2024-11-30 17:49:21,163 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:21,644 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: wDOG
+  Price: $0.00372900
+  Liquidity: $840,295.74
+2024-11-30 17:49:21,660 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:22,152 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: BTW
+  Price: $0.00139000
+  Liquidity: $478,937.48
+2024-11-30 17:49:22,155 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:23,023 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: mSOL
+  Price: $300.84000000
+  Liquidity: $480,563.88
+2024-11-30 17:49:23,070 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:23,349 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: $michi
+  Price: $0.25570000
+  Liquidity: $8,246,625.18
+2024-11-30 17:49:23,369 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:23,624 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: BILLY
+  Price: $0.04357000
+  Liquidity: $4,395,908.39
+2024-11-30 17:49:23,641 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:24,084 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: FWOG
+  Price: $0.40990000
+  Liquidity: $10,235,771.33
+2024-11-30 17:49:24,090 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:24,594 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: MEW
+  Price: $0.00947900
+  Liquidity: $58,879,344.48
+2024-11-30 17:49:24,598 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:24,911 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: INF
+  Price: $305.30000000
+  Liquidity: $2,586,709.12
+2024-11-30 17:49:24,911 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:25,396 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: WBTC
+  Price: $96547.78000000
+  Liquidity: $1,570,130.73
+2024-11-30 17:49:25,412 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:25,666 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: NEIRO
+  Price: $0.00219500
+  Liquidity: $975,311.19
+2024-11-30 17:49:25,666 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:25,966 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: Neiro
+  Price: $0.00550700
+  Liquidity: $1,478,955.24
+2024-11-30 17:49:25,977 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:26,574 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: CATDOG
+  Price: $0.00003385
+  Liquidity: $403,497.82
+2024-11-30 17:49:26,589 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:27,011 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: PONKE
+  Price: $0.58510000
+  Liquidity: $9,259,129.26
+2024-11-30 17:49:27,018 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:27,631 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: nani
+  Price: $0.00001766
+  Liquidity: $23,315.90
+2024-11-30 17:49:27,659 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:28,173 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: ETH
+  Price: $3672.79000000
+  Liquidity: $2,716,555.12
+2024-11-30 17:49:28,189 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:28,757 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: DTW
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:49:28,763 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:29,207 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: WOLF
+  Price: $0.00097480
+  Liquidity: $1,158,598.84
+2024-11-30 17:49:29,221 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:29,727 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JTO
+  Price: $3.71000000
+  Liquidity: $10,502,514.97
+2024-11-30 17:49:29,733 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:30,408 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: neo
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:49:30,423 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:30,929 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: MOTHER
+  Price: $0.04940000
+  Liquidity: $3,795,828.53
+2024-11-30 17:49:30,929 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:38,681 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: aura
+  Price: $0.01758000
+  Liquidity: $1,860,619.11
+2024-11-30 17:49:38,688 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:39,350 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: MANEKI
+  Price: $0.01004000
+  Liquidity: $21,643,712.76
+2024-11-30 17:49:39,350 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:39,897 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SELFIE
+  Price: $0.01889000
+  Liquidity: $1,865,856.35
+2024-11-30 17:49:39,899 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:40,345 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: bSOL
+  Price: $284.35000000
+  Liquidity: $18,426,362.95
+2024-11-30 17:49:40,351 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:41,022 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: WEN
+  Price: $0.00014180
+  Liquidity: $361,854.86
+2024-11-30 17:49:41,022 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:41,524 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: Jajak
+  Price: $0.00008770
+  Liquidity: $75,288.02
+2024-11-30 17:49:41,524 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:42,229 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: thumb
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:49:42,233 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:42,494 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: IO
+  Price: $3.18000000
+  Liquidity: $660,917.37
+2024-11-30 17:49:42,494 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:43,113 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: $Pooku
+  Price: $0.00005577
+  Liquidity: $51,109.41
+2024-11-30 17:49:43,116 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:43,668 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: RENDER
+  Price: $8.79000000
+  Liquidity: $2,897,448.04
+2024-11-30 17:49:43,668 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:44,117 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: RETARDIO
+  Price: $0.13160000
+  Liquidity: $3,890,850.20
+2024-11-30 17:49:44,117 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:44,680 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: GIGA
+  Price: $0.04686000
+  Liquidity: $6,530,354.98
+2024-11-30 17:49:44,697 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:45,240 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: FUKU
+  Price: $0.00001577
+  Liquidity: $25,486.52
+2024-11-30 17:49:45,255 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:45,735 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: RAY
+  Price: $5.57000000
+  Liquidity: $4,785,990.93
+2024-11-30 17:49:45,750 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:46,306 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: PCKT
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:49:46,307 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:46,846 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: $BANE
+  Price: $0.00005754
+  Liquidity: $61,384.53
+2024-11-30 17:49:46,847 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:47,430 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: WALZ 
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:49:47,445 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:47,960 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: DOLLAR
+  Price: $0.00045080
+  Liquidity: $176,174.84
+2024-11-30 17:49:47,981 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:48,240 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: PGN
+  Price: $0.01568000
+  Liquidity: $1,026,586.62
+2024-11-30 17:49:48,240 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:48,761 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: thumb
+  Price: $0.00478900
+  Liquidity: $396,608.15
+2024-11-30 17:49:48,777 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:49,397 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: BULL
+  Price: $0.00004161
+  Liquidity: $40,896.65
+2024-11-30 17:49:49,414 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:50,449 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: APE
+  Price: $0.00000928
+  Liquidity: $14,555.85
+2024-11-30 17:49:50,464 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:51,017 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: USDe
+  Price: $1.00220000
+  Liquidity: $100.93
+2024-11-30 17:49:51,023 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:51,553 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: Minion
+  Price: $0.00087690
+  Liquidity: $200,908.01
+2024-11-30 17:49:51,558 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:51,808 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: DADDY
+  Price: $0.06746000
+  Liquidity: $2,743,595.76
+2024-11-30 17:49:51,818 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:52,372 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: DUCKY
+  Price: $0.00041080
+  Liquidity: $88,948.07
+2024-11-30 17:49:52,372 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:52,970 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: DRC
+  Price: $0.00001054
+  Liquidity: $17,215.26
+2024-11-30 17:49:52,986 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:53,465 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: bicho
+  Price: $0.00020830
+  Liquidity: $98,876.50
+2024-11-30 17:49:53,473 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:53,990 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: Kieth
+  Price: $0.00082250
+  Liquidity: $230,607.99
+2024-11-30 17:49:53,990 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:56,562 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: hSOL
+  Price: $254.17000000
+  Liquidity: $8,040,990.16
+2024-11-30 17:49:56,571 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:57,054 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: WL
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:49:57,072 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:57,546 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: ORE
+  Price: $34.95000000
+  Liquidity: $796,142.57
+2024-11-30 17:49:57,554 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:58,090 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: coconut
+  Price: $0.00003831
+  Liquidity: $43,476.65
+2024-11-30 17:49:58,090 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:58,379 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SC
+  Price: $0.01218000
+  Liquidity: $1,511,431.69
+2024-11-30 17:49:58,382 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:58,824 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: HNT
+  Price: $6.67000000
+  Liquidity: $1,548,779.89
+2024-11-30 17:49:58,825 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:59,092 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: DMAGA
+  Price: $0.00392900
+  Liquidity: $616,190.27
+2024-11-30 17:49:59,102 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:49:59,377 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: BRAINLET
+  Price: $0.02170000
+  Liquidity: $1,308,569.59
+2024-11-30 17:49:59,398 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:00,001 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: TRUMP
+  Price: $1.65000000
+  Liquidity: $163,226.68
+2024-11-30 17:50:00,006 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:00,526 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: BLOOP
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:50:00,542 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:00,808 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: rocky
+  Price: $0.00408900
+  Liquidity: $765,888.83
+2024-11-30 17:50:00,811 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:01,279 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: BOME
+  Price: $0.00939700
+  Liquidity: $68,521,911.13
+2024-11-30 17:50:01,279 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:01,754 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: hehe
+  Price: $0.01907000
+  Liquidity: $1,021,769.58
+2024-11-30 17:50:01,763 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:02,418 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: wCHILD
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:50:02,435 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:03,119 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:03,395 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: mini
+  Price: $0.02786000
+  Liquidity: $2,581,609.19
+2024-11-30 17:50:03,411 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:03,695 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: FROSTY
+  Price: $0.00003294
+  Liquidity: $33,348.79
+2024-11-30 17:50:03,712 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:04,196 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: wCAT
+  Price: $0.00006427
+  Liquidity: $60,247.17
+2024-11-30 17:50:04,212 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:04,818 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: GMaI
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:50:04,818 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:05,452 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: NOS
+  Price: $3.47000000
+  Liquidity: $2,491,285.42
+2024-11-30 17:50:05,461 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:05,787 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: ISC
+  Price: $1.81000000
+  Liquidity: $730,374.37
+2024-11-30 17:50:05,787 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:06,294 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: nomnom
+  Price: $0.01829000
+  Liquidity: $1,122,320.95
+2024-11-30 17:50:06,294 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:06,808 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: $Doogle
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:50:06,824 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:07,338 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: MANIFEST
+  Price: $0.00986600
+  Liquidity: $915,692.77
+2024-11-30 17:50:07,345 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:07,803 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: USDY
+  Price: $1.06100000
+  Liquidity: $13,281,725.83
+2024-11-30 17:50:07,803 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:08,094 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: LOCKIN
+  Price: $0.05422000
+  Liquidity: $2,034,046.06
+2024-11-30 17:50:08,109 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:08,705 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: TT
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:50:08,714 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:09,252 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: MONGY
+  Price: $0.00022140
+  Liquidity: $112,201.42
+2024-11-30 17:50:09,252 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:09,792 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: ticker
+  Price: $0.00001214
+  Liquidity: $16,029.37
+2024-11-30 17:50:09,807 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:10,742 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: CHANGO
+  Price: $0.00010730
+  Liquidity: $54,462.81
+2024-11-30 17:50:10,760 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:11,387 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: tremp
+  Price: $0.07372000
+  Liquidity: $1,350,956.50
+2024-11-30 17:50:11,403 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:11,880 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: KMNO
+  Price: $0.15210000
+  Liquidity: $247,786.69
+2024-11-30 17:50:11,896 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:12,240 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: nub
+  Price: $0.02422000
+  Liquidity: $2,642,214.76
+2024-11-30 17:50:12,240 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:12,777 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: RAWDOG
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:50:12,794 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:13,446 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SSC
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:50:13,462 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:13,746 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: $MYRO
+  Price: $0.11610000
+  Liquidity: $3,168,421.93
+2024-11-30 17:50:13,762 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:14,263 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SIGMA
+  Price: $0.06815000
+  Liquidity: $2,798,806.25
+2024-11-30 17:50:14,279 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:14,841 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SMILEK
+  Price: $0.00000187
+  Liquidity: $516,733.73
+2024-11-30 17:50:14,860 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:15,370 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SRMet
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:50:15,386 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:15,982 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: YARD
+  Price: $0.00008285
+  Liquidity: $6,225.08
+2024-11-30 17:50:15,999 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:16,504 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: AABL
+  Price: $0.00366600
+  Liquidity: $253,609.15
+2024-11-30 17:50:16,521 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:16,998 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JOHN
+  Price: $0.00099000
+  Liquidity: $133,419.86
+2024-11-30 17:50:17,014 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:17,756 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: ket
+  Price: $0.00000985
+  Liquidity: $6,395.45
+2024-11-30 17:50:17,768 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:18,269 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: ZYN
+  Price: $0.03379000
+  Liquidity: $280,898.07
+2024-11-30 17:50:18,280 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:18,929 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: whoren
+  Price: $0.00133000
+  Liquidity: $56,159.79
+2024-11-30 17:50:18,934 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:19,462 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: ANUS
+  Price: $0.00009829
+  Liquidity: $174,329.63
+2024-11-30 17:50:19,471 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:19,987 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: ANON
+  Price: $0.00012890
+  Liquidity: $61,531.49
+2024-11-30 17:50:19,987 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:20,819 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JFI
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:50:20,828 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:21,280 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: LFGO
+  Price: $0.00269900
+  Liquidity: $413,087.26
+2024-11-30 17:50:21,297 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:21,792 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: PEDRO
+  Price: $0.00403300
+  Liquidity: $107,304.42
+2024-11-30 17:50:21,799 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:22,390 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: PULP
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:50:22,393 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:22,987 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: Labz
+  Price: $0.03594000
+  Liquidity: $437,557.48
+2024-11-30 17:50:22,995 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:23,498 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: YOURAI
+  Price: $0.01642000
+  Liquidity: $115,119.50
+2024-11-30 17:50:23,520 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:24,200 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SEYLER
+  Price: $0.00002363
+  Liquidity: $19,671.38
+2024-11-30 17:50:24,215 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:24,660 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: NVX
+  Price: $0.00140800
+  Liquidity: $42,996.75
+2024-11-30 17:50:24,660 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:25,176 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: Albärt
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:50:25,188 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:25,746 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: DFTU
+  Price: $0.00047850
+  Liquidity: $619,364.62
+2024-11-30 17:50:25,761 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:26,339 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: aeUSDT
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:50:26,348 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:27,131 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: TBTC
+  Price: $96501.19000000
+  Liquidity: $119,353.69
+2024-11-30 17:50:27,140 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:27,629 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SPOOKY
+  Price: $0.00000840
+  Liquidity: $30,251.10
+2024-11-30 17:50:27,632 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:28,145 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: DAWG
+  Price: $0.00160200
+  Liquidity: $3,695.85
+2024-11-30 17:50:28,149 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:28,704 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: GRUMP
+  Price: $0.00013110
+  Liquidity: $44,778.67
+2024-11-30 17:50:28,720 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:29,230 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: BYAT
+  Price: $0.00001676
+  Liquidity: $38,902.86
+2024-11-30 17:50:29,233 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:29,881 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: CHEXBACCA
+  Price: $0.00017610
+  Liquidity: $57,191.52
+2024-11-30 17:50:29,896 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:30,367 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: GENE
+  Price: $0.07570000
+  Liquidity: $66,693.29
+2024-11-30 17:50:30,372 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:30,867 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SHEPI
+  Price: $0.00001350
+  Liquidity: $18,134.70
+2024-11-30 17:50:30,878 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:31,488 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: RBT
+  Price: $0.00000740
+  Liquidity: $596,620.33
+2024-11-30 17:50:31,494 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:31,982 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SOLNIC
+  Price: $0.00564100
+  Liquidity: $462,558.02
+2024-11-30 17:50:31,992 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:32,543 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: rFRAKT
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:50:32,549 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:33,133 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: ched
+  Price: $0.00002157
+  Liquidity: $25,052.32
+2024-11-30 17:50:33,133 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:33,733 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: MOON
+  Price: $0.00001936
+  Liquidity: $20,733.86
+2024-11-30 17:50:33,747 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:34,296 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: ASV
+  Price: $0.02407000
+  Liquidity: $213,921.06
+2024-11-30 17:50:34,296 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:34,796 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: PRE-
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:50:34,814 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:35,332 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: DJT
+  Price: $0.00024310
+  Liquidity: $1,302,009.74
+2024-11-30 17:50:35,342 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:35,809 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: TWT
+  Price: $1.25000000
+  Liquidity: $1,835.99
+2024-11-30 17:50:35,817 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:36,430 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: EURC
+  Price: $1.05800000
+  Liquidity: $1,211,948.40
+2024-11-30 17:50:36,432 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:36,966 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SOLNTN
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 17:50:36,979 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:37,490 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: DUSK
+  Price: $0.00210000
+  Liquidity: $3,254.98
+2024-11-30 17:50:37,512 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:38,114 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: PFIRE
+  Price: $0.00000005
+  Liquidity: $94,158.43
+2024-11-30 17:50:38,125 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 17:50:38,433 - scout_agent - INFO - Stopping scout agent...
+2024-11-30 18:07:22,800 - scout_agent - INFO - Added new callback with priority: True
+2024-11-30 18:07:22,810 - scout_agent - INFO - Added new callback with priority: True
+2024-11-30 18:07:22,970 - scout_agent - INFO - Starting scout agent...
+2024-11-30 18:07:29,431 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SOL
+  Price: $242.42000000
+  Liquidity: $6,222,542.47
+2024-11-30 18:07:29,452 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:29,736 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: USDC
+  Price: $0.99950000
+  Liquidity: $4,572,616.70
+2024-11-30 18:07:29,752 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:30,227 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: USDT
+  Price: $1.00050000
+  Liquidity: $391,889.12
+2024-11-30 18:07:30,245 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:30,771 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: PYUSD
+  Price: $0.99950000
+  Liquidity: $1,053,538.80
+2024-11-30 18:07:30,802 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:31,307 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: $WIF
+  Price: $3.20000000
+  Liquidity: $4,104,286.32
+2024-11-30 18:07:31,315 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:32,162 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: POPCAT
+  Price: $1.30000000
+  Liquidity: $1,531,696.91
+2024-11-30 18:07:32,178 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:32,692 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JitoSOL
+  Price: $280.09900000
+  Liquidity: $10,551,941.17
+2024-11-30 18:07:32,703 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:33,202 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JUP
+  Price: $1.16000000
+  Liquidity: $367,510.60
+2024-11-30 18:07:33,202 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:33,708 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: Bonk
+  Price: $0.00004560
+  Liquidity: $529,186.39
+2024-11-30 18:07:33,713 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:34,159 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JLP
+  Price: $4.12000000
+  Liquidity: $1,015,813.93
+2024-11-30 18:07:34,174 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:34,631 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: MUMU
+  Price: $0.00005738
+  Liquidity: $4,709,706.70
+2024-11-30 18:07:34,642 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:35,214 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JupSOL
+  Price: $256.91000000
+  Liquidity: $771,855.73
+2024-11-30 18:07:35,226 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:35,707 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SCF
+  Price: $0.02901000
+  Liquidity: $2,313,095.40
+2024-11-30 18:07:35,711 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:36,311 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: GINNAN
+  Price: $0.00000231
+  Liquidity: $998,563.36
+2024-11-30 18:07:36,331 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:36,613 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: wDOG
+  Price: $0.00373300
+  Liquidity: $839,562.65
+2024-11-30 18:07:36,632 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:36,876 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: BTW
+  Price: $0.00138600
+  Liquidity: $478,099.77
+2024-11-30 18:07:36,892 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:37,511 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: mSOL
+  Price: $300.09600000
+  Liquidity: $443,693.66
+2024-11-30 18:07:37,531 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:37,793 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: $michi
+  Price: $0.24670000
+  Liquidity: $8,084,181.38
+2024-11-30 18:07:37,793 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:38,077 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: BILLY
+  Price: $0.04332000
+  Liquidity: $4,376,500.74
+2024-11-30 18:07:38,077 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:38,552 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: FWOG
+  Price: $0.40990000
+  Liquidity: $10,223,341.07
+2024-11-30 18:07:38,568 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:42,031 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: MEW
+  Price: $0.00944200
+  Liquidity: $58,825,886.07
+2024-11-30 18:07:42,041 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:42,299 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: INF
+  Price: $304.57000000
+  Liquidity: $2,582,367.84
+2024-11-30 18:07:42,317 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:42,823 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: WBTC
+  Price: $96547.51000000
+  Liquidity: $1,570,353.61
+2024-11-30 18:07:42,838 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:43,092 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: NEIRO
+  Price: $0.00220800
+  Liquidity: $977,555.37
+2024-11-30 18:07:43,109 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:43,634 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: Neiro
+  Price: $0.00545700
+  Liquidity: $1,470,873.25
+2024-11-30 18:07:43,655 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:07:43,809 - scout_agent - INFO - Stopping scout agent...
+2024-11-30 18:10:49,836 - scout_agent - INFO - Added new callback with priority: True
+2024-11-30 18:10:49,840 - scout_agent - INFO - Added new callback with priority: True
+2024-11-30 18:10:49,998 - scout_agent - INFO - Starting scout agent...
+2024-11-30 18:10:57,025 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SOL
+  Price: $241.89000000
+  Liquidity: $6,216,709.06
+2024-11-30 18:10:57,043 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:10:57,175 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:10:57,498 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: USDC
+  Price: $0.99950000
+  Liquidity: $4,572,612.25
+2024-11-30 18:10:57,503 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:10:57,639 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:10:57,947 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: USDT
+  Price: $1.00050000
+  Liquidity: $391,889.12
+2024-11-30 18:10:57,963 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:10:58,377 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:10:58,867 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: PYUSD
+  Price: $0.99950000
+  Liquidity: $1,053,541.14
+2024-11-30 18:10:58,885 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:10:59,024 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:10:59,294 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: $WIF
+  Price: $3.19000000
+  Liquidity: $4,101,109.48
+2024-11-30 18:10:59,317 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:10:59,451 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:10:59,729 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: POPCAT
+  Price: $1.30000000
+  Liquidity: $1,529,778.43
+2024-11-30 18:10:59,746 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:10:59,884 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:00,510 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JitoSOL
+  Price: $279.77000000
+  Liquidity: $10,539,755.41
+2024-11-30 18:11:00,515 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:00,640 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:00,928 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JUP
+  Price: $1.15000000
+  Liquidity: $367,379.49
+2024-11-30 18:11:00,944 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:01,089 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:01,355 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: Bonk
+  Price: $0.00004530
+  Liquidity: $526,770.42
+2024-11-30 18:11:01,360 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:01,490 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:01,828 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JLP
+  Price: $4.12000000
+  Liquidity: $1,015,769.60
+2024-11-30 18:11:01,831 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:01,975 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:02,422 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: MUMU
+  Price: $0.00005725
+  Liquidity: $4,699,451.45
+2024-11-30 18:11:02,426 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:02,569 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:03,048 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JupSOL
+  Price: $256.91000000
+  Liquidity: $771,855.73
+2024-11-30 18:11:03,061 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:03,205 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:03,854 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SCF
+  Price: $0.02893000
+  Liquidity: $2,308,187.81
+2024-11-30 18:11:03,870 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:04,011 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:04,470 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: GINNAN
+  Price: $0.00000232
+  Liquidity: $999,522.66
+2024-11-30 18:11:04,487 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:04,628 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:05,128 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: wDOG
+  Price: $0.00373000
+  Liquidity: $838,927.13
+2024-11-30 18:11:05,140 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:05,269 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:05,537 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: BTW
+  Price: $0.00138300
+  Liquidity: $477,119.97
+2024-11-30 18:11:05,552 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:05,691 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:06,927 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: mSOL
+  Price: $299.43000000
+  Liquidity: $442,723.20
+2024-11-30 18:11:06,939 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:07,066 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:07,318 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: $michi
+  Price: $0.24680000
+  Liquidity: $8,083,610.67
+2024-11-30 18:11:07,334 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:07,477 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:07,760 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: BILLY
+  Price: $0.04268000
+  Liquidity: $4,342,801.87
+2024-11-30 18:11:07,760 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:07,902 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:08,362 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: FWOG
+  Price: $0.40930000
+  Liquidity: $10,212,299.26
+2024-11-30 18:11:08,377 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:08,807 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:09,078 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: MEW
+  Price: $0.00942900
+  Liquidity: $58,749,970.19
+2024-11-30 18:11:09,093 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:09,235 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:09,507 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: INF
+  Price: $304.19000000
+  Liquidity: $2,578,737.57
+2024-11-30 18:11:09,522 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:09,664 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:10,169 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: WBTC
+  Price: $96548.40000000
+  Liquidity: $1,570,364.60
+2024-11-30 18:11:10,176 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:10,312 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:10,896 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: NEIRO
+  Price: $0.00220600
+  Liquidity: $976,197.87
+2024-11-30 18:11:10,913 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:11,063 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:11,310 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: Neiro
+  Price: $0.00541200
+  Liquidity: $1,463,142.21
+2024-11-30 18:11:11,331 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:11,468 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:12,085 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: CATDOG
+  Price: $0.00003296
+  Liquidity: $397,285.71
+2024-11-30 18:11:12,101 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:12,245 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:12,567 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: PONKE
+  Price: $0.58250000
+  Liquidity: $9,220,714.26
+2024-11-30 18:11:12,573 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:12,714 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:13,248 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: nani
+  Price: $0.00001766
+  Liquidity: $23,315.90
+2024-11-30 18:11:13,263 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:13,400 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:13,881 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: ETH
+  Price: $3669.60000000
+  Liquidity: $2,705,657.44
+2024-11-30 18:11:13,898 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:14,040 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:14,975 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: DTW
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 18:11:14,991 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:15,132 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:15,559 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: WOLF
+  Price: $0.00097190
+  Liquidity: $1,154,226.77
+2024-11-30 18:11:15,574 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:15,718 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:16,256 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JTO
+  Price: $3.68000000
+  Liquidity: $10,430,606.84
+2024-11-30 18:11:16,272 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:16,429 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:17,055 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: neo
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 18:11:17,070 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:17,197 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:17,472 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: MOTHER
+  Price: $0.04968000
+  Liquidity: $3,802,428.78
+2024-11-30 18:11:17,486 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:17,611 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:18,221 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: aura
+  Price: $0.01757000
+  Liquidity: $1,857,072.95
+2024-11-30 18:11:18,237 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:18,379 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:18,944 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: MANEKI
+  Price: $0.01006000
+  Liquidity: $21,631,729.75
+2024-11-30 18:11:18,975 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:19,117 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:19,371 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SELFIE
+  Price: $0.01867000
+  Liquidity: $1,853,058.24
+2024-11-30 18:11:19,386 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:19,527 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:19,995 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: bSOL
+  Price: $284.10000000
+  Liquidity: $18,410,696.46
+2024-11-30 18:11:20,014 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:20,164 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:20,802 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: WEN
+  Price: $0.00014170
+  Liquidity: $361,498.86
+2024-11-30 18:11:20,818 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:20,976 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:21,436 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: Jajak
+  Price: $0.00008770
+  Liquidity: $75,288.02
+2024-11-30 18:11:21,436 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:21,578 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:22,110 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: thumb
+  Price: $0.00000000
+  Liquidity: $0.00
+2024-11-30 18:11:22,117 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:22,268 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:22,528 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: IO
+  Price: $3.18000000
+  Liquidity: $660,917.37
+2024-11-30 18:11:22,545 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:22,688 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:23,432 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: $Pooku
+  Price: $0.00005577
+  Liquidity: $51,109.41
+2024-11-30 18:11:23,448 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:23,590 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:24,076 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: RENDER
+  Price: $8.71000000
+  Liquidity: $2,881,259.82
+2024-11-30 18:11:24,097 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:24,234 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:24,689 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: RETARDIO
+  Price: $0.13050000
+  Liquidity: $3,866,575.47
+2024-11-30 18:11:24,690 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 18:11:24,843 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 18:11:25,007 - scout_agent - INFO - Stopping scout agent...
+2024-11-30 19:18:53,250 - scout_agent - INFO - Added new callback with priority: True
+2024-11-30 19:18:53,250 - scout_agent - INFO - Added new callback with priority: True
+2024-11-30 19:18:53,392 - scout_agent - INFO - Starting scout agent...
+2024-11-30 19:19:23,621 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SOL
+  Price: $241.49000000
+  Liquidity: $6,203,709.28
+2024-11-30 19:19:23,623 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:23,757 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:27,878 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: USDC
+  Price: $0.99950000
+  Liquidity: $4,520,952.48
+2024-11-30 19:19:27,897 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:28,030 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:28,537 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: USDT
+  Price: $1.00039000
+  Liquidity: $391,878.55
+2024-11-30 19:19:28,537 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:28,692 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:29,779 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: PYUSD
+  Price: $0.99950000
+  Liquidity: $1,053,533.36
+2024-11-30 19:19:29,813 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:29,963 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:30,438 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: $WIF
+  Price: $3.20000000
+  Liquidity: $4,102,290.91
+2024-11-30 19:19:30,457 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:30,617 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:30,902 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: POPCAT
+  Price: $1.31000000
+  Liquidity: $1,539,574.49
+2024-11-30 19:19:30,917 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:31,047 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:31,489 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JitoSOL
+  Price: $279.11000000
+  Liquidity: $10,514,609.94
+2024-11-30 19:19:31,499 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:31,628 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:32,002 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JUP
+  Price: $1.16000000
+  Liquidity: $375,264.91
+2024-11-30 19:19:32,019 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:32,146 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:32,418 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: Bonk
+  Price: $0.00004547
+  Liquidity: $511,949.14
+2024-11-30 19:19:32,441 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:32,564 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:33,223 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JLP
+  Price: $4.12000000
+  Liquidity: $1,035,551.21
+2024-11-30 19:19:33,235 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:33,364 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:33,810 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: MUMU
+  Price: $0.00005770
+  Liquidity: $4,715,117.67
+2024-11-30 19:19:33,811 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:33,944 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:35,307 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: JupSOL
+  Price: $255.62000000
+  Liquidity: $2,668,889.13
+2024-11-30 19:19:35,324 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:35,449 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:35,943 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: SCF
+  Price: $0.02915000
+  Liquidity: $2,314,832.64
+2024-11-30 19:19:35,963 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:36,090 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:36,787 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: GINNAN
+  Price: $0.00000229
+  Liquidity: $993,235.85
+2024-11-30 19:19:36,834 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:36,961 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:37,486 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: wDOG
+  Price: $0.00372800
+  Liquidity: $837,926.10
+2024-11-30 19:19:37,499 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:37,938 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:38,244 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: BTW
+  Price: $0.00131500
+  Liquidity: $464,467.17
+2024-11-30 19:19:38,259 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:38,416 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:38,731 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: mSOL
+  Price: $299.02500000
+  Liquidity: $441,613.24
+2024-11-30 19:19:38,747 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:38,906 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:39,180 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: $michi
+  Price: $0.24340000
+  Liquidity: $8,019,363.01
+2024-11-30 19:19:39,189 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:39,345 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:39,598 - scout_agent - INFO - 
+[NEW TOKEN FOUND ON JUPITER]
+  Symbol: BILLY
+  Price: $0.04218000
+  Liquidity: $4,312,767.06
+2024-11-30 19:19:39,598 - scout_agent - ERROR - Callback error: object NoneType can't be used in 'await' expression
+2024-11-30 19:19:39,758 - scout_agent - ERROR - Callback error: Insufficient balance: 0.0 SOL (need 0.1)
+2024-11-30 19:19:40,370 - scout_agent - INFO - Stopping scout agent...

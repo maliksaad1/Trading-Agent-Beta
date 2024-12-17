@@ -1,0 +1,1974 @@
+2024-11-25 01:39:29,126 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: orca
+  Entry: $0.00133300
+2024-11-25 01:39:29,133 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: OPOS
+  Entry: $0.37120000
+2024-11-25 01:39:29,133 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00051530
+2024-11-25 01:39:29,744 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: orca
+  Reason: stop_loss
+  Entry: $0.00133300
+  Exit: $0.00082770
+  P/L: -37.91%
+  Hold Time: 0.6 seconds
+2024-11-25 01:39:30,558 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00570100
+2024-11-25 01:39:30,576 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BABYSOL
+  Reason: quick_profit
+  Entry: $0.00051530
+  Exit: $0.00054310
+  P/L: 5.39%
+  Hold Time: 1.4 seconds
+2024-11-25 01:39:33,746 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: SURF
+  Entry: $0.00000033
+2024-11-25 01:40:30,377 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: OPOS
+  Reason: timeout
+  Entry: $0.37120000
+  Exit: $0.37320000
+  P/L: 0.54%
+  Hold Time: 61.2 seconds
+2024-11-25 01:40:32,178 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BABYSOL
+  Reason: timeout
+  Entry: $0.00570100
+  Exit: $0.00565100
+  P/L: -0.88%
+  Hold Time: 61.6 seconds
+2024-11-25 01:40:34,274 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: SURF
+  Reason: timeout
+  Entry: $0.00000033
+  Exit: $0.00000033
+  P/L: 0.98%
+  Hold Time: 60.5 seconds
+2024-11-25 01:41:52,904 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: orca
+  Entry: $0.00133300
+2024-11-25 01:41:52,904 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: OPOS
+  Entry: $0.37120000
+2024-11-25 01:41:52,904 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00051530
+2024-11-25 01:41:53,735 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BABYSOL
+  Reason: quick_profit
+  Entry: $0.00051530
+  Exit: $0.00054310
+  P/L: 5.39%
+  Hold Time: 0.8 seconds
+2024-11-25 01:41:53,755 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: orca
+  Reason: stop_loss
+  Entry: $0.00133300
+  Exit: $0.00082450
+  P/L: -38.15%
+  Hold Time: 0.9 seconds
+2024-11-25 01:42:53,309 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: OPOS
+  Reason: timeout
+  Entry: $0.37120000
+  Exit: $0.37320000
+  P/L: 0.54%
+  Hold Time: 60.4 seconds
+2024-11-25 01:44:08,350 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: LUMIO
+  Entry: $0.00015540
+2024-11-25 01:44:08,350 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00056090
+2024-11-25 01:44:08,359 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: OPOS
+  Entry: $0.36770000
+2024-11-25 01:44:08,928 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BABYSOL
+  Reason: stop_loss
+  Entry: $0.00056090
+  Exit: $0.00053930
+  P/L: -3.85%
+  Hold Time: 0.6 seconds
+2024-11-25 01:44:08,952 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: LUMIO
+  Reason: stop_loss
+  Entry: $0.00015540
+  Exit: $0.00015320
+  P/L: -1.42%
+  Hold Time: 0.6 seconds
+2024-11-25 01:44:09,985 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00570100
+2024-11-25 01:44:09,985 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: RAY
+  Entry: $5.89000000
+2024-11-25 01:45:11,066 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: RAY
+  Reason: timeout
+  Entry: $5.89000000
+  Exit: $5.90000000
+  P/L: 0.17%
+  Hold Time: 61.1 seconds
+2024-11-25 01:47:26,261 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: orca
+  Entry: $0.00133300
+2024-11-25 01:47:26,263 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: OPOS
+  Entry: $0.37120000
+2024-11-25 01:47:26,272 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00051530
+2024-11-25 01:47:27,102 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BABYSOL
+  Reason: quick_profit
+  Entry: $0.00051530
+  Exit: $0.00054170
+  P/L: 5.12%
+  Hold Time: 0.8 seconds
+2024-11-25 01:47:27,215 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: orca
+  Reason: stop_loss
+  Entry: $0.00133300
+  Exit: $0.00084190
+  P/L: -36.84%
+  Hold Time: 1.0 seconds
+2024-11-25 01:47:31,711 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00570100
+2024-11-25 01:47:31,727 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: LUMIO
+  Entry: $0.00015410
+2024-11-25 01:47:31,727 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00052510
+2024-11-25 01:47:31,852 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BABYSOL
+  Reason: quick_profit
+  Entry: $0.00052510
+  Exit: $0.00054170
+  P/L: 3.16%
+  Hold Time: 0.1 seconds
+2024-11-25 01:47:31,931 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: orca
+  Entry: $0.00133300
+2024-11-25 01:47:32,281 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: orca
+  Reason: stop_loss
+  Entry: $0.00133300
+  Exit: $0.00084190
+  P/L: -36.84%
+  Hold Time: 0.4 seconds
+2024-11-25 01:48:32,349 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BABYSOL
+  Reason: timeout
+  Entry: $0.00570100
+  Exit: $0.00565100
+  P/L: -0.88%
+  Hold Time: 60.6 seconds
+2024-11-25 01:48:32,749 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: LUMIO
+  Reason: timeout
+  Entry: $0.00015410
+  Exit: $0.00015410
+  P/L: 0.00%
+  Hold Time: 61.0 seconds
+2024-11-25 01:49:55,912 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00570100
+2024-11-25 01:49:55,912 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: LUMIO
+  Entry: $0.00015410
+2024-11-25 01:49:55,921 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00052510
+2024-11-25 01:49:56,482 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BABYSOL
+  Reason: quick_profit
+  Entry: $0.00052510
+  Exit: $0.00054170
+  P/L: 3.16%
+  Hold Time: 0.6 seconds
+2024-11-25 01:49:57,264 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: orca
+  Entry: $0.00131300
+2024-11-25 01:49:57,933 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: orca
+  Reason: stop_loss
+  Entry: $0.00131300
+  Exit: $0.00084230
+  P/L: -35.85%
+  Hold Time: 0.7 seconds
+2024-11-25 01:50:56,471 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: LUMIO
+  Reason: timeout
+  Entry: $0.00015410
+  Exit: $0.00015410
+  P/L: 0.00%
+  Hold Time: 60.6 seconds
+2024-11-25 01:50:58,324 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BABYSOL
+  Reason: timeout
+  Entry: $0.00570100
+  Exit: $0.00566800
+  P/L: -0.58%
+  Hold Time: 62.4 seconds
+2024-11-25 01:53:46,907 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: orca
+  Entry: $0.00131300
+2024-11-25 01:53:46,917 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: OPOS
+  Entry: $0.37120000
+2024-11-25 01:53:46,917 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00051530
+2024-11-25 01:53:46,933 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:46,933 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:46,933 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:47,950 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:47,950 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:47,950 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:48,964 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:48,966 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:48,966 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:49,971 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:49,971 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:49,971 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:50,988 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:50,988 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:50,988 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:52,002 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:52,002 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:52,002 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:53,010 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:53,010 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:53,010 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:54,029 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:54,030 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:54,030 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:55,040 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:55,041 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:55,041 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:56,065 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:56,066 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:56,066 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:57,078 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:57,079 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:57,079 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:58,074 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:58,074 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:58,074 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:59,095 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:59,095 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:53:59,095 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:00,097 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:00,097 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:00,097 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:01,099 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:01,099 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:01,099 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:02,114 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:02,115 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:02,115 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:03,115 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:03,115 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:03,115 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:04,110 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:04,110 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:04,110 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:05,112 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:05,115 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:05,117 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:06,091 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:06,091 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:06,091 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:07,101 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:07,101 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:07,101 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:08,093 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:08,093 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:08,093 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:09,106 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:09,106 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:09,106 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:10,106 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:10,106 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:10,106 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:11,107 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:11,107 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:11,107 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:12,128 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:12,129 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:12,129 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:13,148 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:13,149 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:13,149 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:14,133 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:14,133 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:14,133 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:15,124 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:15,124 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:15,124 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:16,133 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:16,135 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:16,136 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:17,139 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:17,139 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:17,139 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:18,140 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:18,140 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:18,140 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:19,143 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:19,143 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:19,143 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:20,158 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:20,158 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:20,162 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:21,168 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:21,168 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:21,168 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:22,185 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:22,185 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:22,185 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:23,185 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:23,185 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:23,185 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:24,179 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:24,179 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:24,181 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:25,184 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:25,185 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:25,185 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:26,189 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:26,190 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:26,190 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:27,176 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:27,181 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:27,182 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:28,189 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:28,189 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:28,189 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:29,195 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:29,195 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:29,195 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:30,191 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:30,192 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:30,192 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:31,197 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:31,199 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:31,199 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:32,214 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:32,214 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:32,214 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:33,223 - analysis_agent - ERROR - Error monitoring CaLyryATQhnVZaau425zAJ9fNf4uNWVa1GKD6JN94AX9: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:33,223 - analysis_agent - ERROR - Error monitoring BqVHWpwUDgMik5gbTciFfozadpE2oZth5bxCDrgbDt52: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:54:33,223 - analysis_agent - ERROR - Error monitoring 54meDtup2K7pqyhUK24AymoLzMPtrkhNTbEzQ6gSpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 01:55:02,125 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: LUMIO
+  Entry: $0.00015540
+2024-11-25 01:55:02,142 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00056090
+2024-11-25 01:55:02,142 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: OPOS
+  Entry: $0.36770000
+2024-11-25 01:55:02,997 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: LUMIO
+  Reason: stop_loss
+  Entry: $0.00015540
+  Exit: $0.00015260
+  P/L: -1.80%
+  Hold Time: 0.9 seconds
+  Peak Price: $0.00015540
+  Volatility: 0.0000
+2024-11-25 01:55:03,167 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: OPOS
+  Reason: quick_profit
+  Entry: $0.36770000
+  Exit: $0.38380000
+  P/L: 4.38%
+  Hold Time: 1.0 seconds
+  Peak Price: $0.38380000
+  Volatility: 0.0000
+2024-11-25 01:55:03,352 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00570100
+2024-11-25 01:55:03,352 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: RAY
+  Entry: $5.86000000
+2024-11-25 01:55:03,738 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BABYSOL
+  Reason: early_stop_loss
+  Entry: $0.00056090
+  Exit: $0.00054170
+  P/L: -3.42%
+  Hold Time: 1.6 seconds
+  Peak Price: $0.00056090
+  Volatility: 0.0000
+2024-11-25 01:56:50,815 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00570100
+2024-11-25 01:56:50,824 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: LUMIO
+  Entry: $0.00015410
+2024-11-25 01:56:50,826 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00052510
+2024-11-25 01:56:51,409 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BABYSOL
+  Reason: volatility_profit
+  Entry: $0.00052510
+  Exit: $0.00053910
+  P/L: 2.67%
+  Hold Time: 0.6 seconds
+  Peak Price: $0.00053910
+  Volatility: 0.0000
+2024-11-25 01:56:52,729 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: SURF
+  Entry: $0.00000033
+2024-11-25 01:57:22,371 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:22,715 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:22,903 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:23,074 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:23,218 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:23,282 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:23,483 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:23,792 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:23,877 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:23,920 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:24,292 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:24,360 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:24,502 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:24,882 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:25,188 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:25,344 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:25,440 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:25,476 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:25,760 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:25,998 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:26,153 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:26,323 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:26,323 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:26,595 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:26,741 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:26,904 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:26,906 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:27,168 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:27,463 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:27,479 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:27,586 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:27,745 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:28,057 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:28,327 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:28,893 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:28,895 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:29,069 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:29,164 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:29,466 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:29,639 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:29,691 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:29,987 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:30,240 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:30,539 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:30,799 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:31,055 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:31,105 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:31,220 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:31,355 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:31,699 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:31,874 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:31,917 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:32,041 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:32,280 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:32,441 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:32,491 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:32,612 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:32,833 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:33,051 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:33,188 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:33,278 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:33,412 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:33,629 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:33,756 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:34,089 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:34,189 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:34,233 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:34,329 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:34,653 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:34,756 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:34,907 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:35,059 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:35,238 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:35,623 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:35,729 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:35,795 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:36,188 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:36,326 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:36,367 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:36,558 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:36,756 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:36,907 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:36,914 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:37,142 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:37,321 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:37,471 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:37,471 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:37,885 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:38,038 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:38,041 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:38,473 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:38,605 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:38,733 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:38,888 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:39,038 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:39,172 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:39,296 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:39,615 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:39,688 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:39,754 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:40,186 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:40,262 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:40,326 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:40,772 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:40,811 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:40,874 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:40,907 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:41,380 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:41,446 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:41,570 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:41,978 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:42,025 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:42,180 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:42,476 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:42,554 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:42,604 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:42,748 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:43,427 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:43,987 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:44,833 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:45,671 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:46,245 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:46,821 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:47,655 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:48,234 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:48,808 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:49,371 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:49,955 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:50,528 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:51,102 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:51,669 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:52,249 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:53,826 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:54,410 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:54,987 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:55,807 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:56,378 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:57,961 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:58,538 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:59,112 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:57:59,685 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:00,263 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:00,845 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:01,411 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:01,996 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:02,571 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:04,163 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:04,996 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:05,566 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:06,138 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:06,983 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:07,555 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:08,129 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:08,705 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:09,538 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:10,387 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:10,953 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:11,788 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:12,372 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:12,954 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:13,521 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:14,093 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:14,671 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:15,236 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:17,070 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:17,636 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:18,217 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:18,807 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:19,384 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:19,948 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:20,517 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:21,078 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:21,647 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:58:33,928 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: LUMIO
+  Entry: $0.00015540
+2024-11-25 01:58:33,928 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00056090
+2024-11-25 01:58:33,935 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: OPOS
+  Entry: $0.36770000
+2024-11-25 01:58:34,253 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: OPOS
+  Reason: quick_profit
+  Entry: $0.36770000
+  Exit: $0.38380000
+  P/L: 4.38%
+  Hold Time: 0.3 seconds
+  Peak Price: $0.38380000
+  Volatility: 0.0000
+2024-11-25 01:58:34,438 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: LUMIO
+  Reason: stop_loss
+  Entry: $0.00015540
+  Exit: $0.00015260
+  P/L: -1.80%
+  Hold Time: 0.5 seconds
+  Peak Price: $0.00015540
+  Volatility: 0.0000
+2024-11-25 01:58:34,490 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BABYSOL
+  Reason: early_stop_loss
+  Entry: $0.00056090
+  Exit: $0.00053910
+  P/L: -3.89%
+  Hold Time: 0.6 seconds
+  Peak Price: $0.00056090
+  Volatility: 0.0000
+2024-11-25 01:58:36,246 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00570100
+2024-11-25 01:58:36,246 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: RAY
+  Entry: $5.88000000
+2024-11-25 01:58:36,269 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: SAMO
+  Entry: $0.01063000
+2024-11-25 01:59:22,911 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:22,934 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:23,521 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:23,769 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:23,769 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:24,081 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:24,909 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:25,467 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:25,956 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:26,067 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:26,635 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:26,803 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:26,803 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:27,468 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:28,043 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:28,630 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:28,992 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:29,212 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:29,826 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:29,826 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:30,033 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:30,866 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:31,449 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:32,039 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:32,284 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:32,854 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:32,854 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:32,854 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:34,448 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:35,023 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:35,076 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:35,616 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:35,884 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:35,898 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:36,173 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:36,733 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:37,315 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:38,105 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:38,138 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:38,716 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:38,916 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:38,916 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:39,282 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:39,852 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:40,421 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:40,982 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:41,150 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:41,551 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:41,949 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:41,949 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:42,123 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:42,717 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:43,307 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:43,883 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:44,199 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:44,448 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:45,001 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:45,005 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:45,023 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:45,596 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:46,190 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:47,015 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:47,220 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:47,590 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:48,049 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:48,050 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:48,182 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:48,754 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:49,332 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:49,904 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:50,248 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:50,483 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:51,070 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 01:59:51,092 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:51,095 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:53,305 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:54,118 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:54,118 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:56,335 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:57,148 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:57,154 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 01:59:59,359 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:00,181 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:00,181 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:02,400 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:03,202 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:03,202 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:03,348 - analysis_agent - ERROR - Error fetching price for bsAwuVJMPAazbQSVpPQND69mvwftQutZhxpWqsf2BUE: 
+2024-11-25 02:00:03,919 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:04,491 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:05,063 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:05,443 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:05,643 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:06,211 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:06,251 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:06,251 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:06,768 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:07,345 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:07,927 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:08,482 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:08,501 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:09,302 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:09,302 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:10,089 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:10,664 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:11,229 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:11,524 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:11,827 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:12,057 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:12,326 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:12,326 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:12,402 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:12,888 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:12,987 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:13,459 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:13,549 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:14,032 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:14,099 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:14,558 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:14,613 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:14,656 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:15,184 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:15,221 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:15,378 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:15,378 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:15,798 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:16,024 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:16,364 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:16,591 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:17,158 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:17,165 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:17,633 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:17,818 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:18,105 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:18,424 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:18,424 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:18,468 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:18,752 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:19,127 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:19,402 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:20,068 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:20,702 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:20,707 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:00:20,738 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:00:59,355 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: LUMIO
+  Entry: $0.00015540
+2024-11-25 02:00:59,370 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00056090
+2024-11-25 02:00:59,373 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: OPOS
+  Entry: $0.36770000
+2024-11-25 02:01:01,837 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: LUMIO
+  Reason: stop_loss
+  Entry: $0.00015540
+  Exit: $0.00015210
+  P/L: -2.12%
+  Hold Time: 2.5 seconds
+2024-11-25 02:01:01,886 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BABYSOL
+  Reason: stop_loss
+  Entry: $0.00056090
+  Exit: $0.00053910
+  P/L: -3.89%
+  Hold Time: 2.5 seconds
+2024-11-25 02:01:02,275 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: OPOS
+  Reason: quick_profit
+  Entry: $0.36770000
+  Exit: $0.38380000
+  P/L: 4.38%
+  Hold Time: 2.9 seconds
+2024-11-25 02:01:09,976 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: soliloquy
+  Entry: $0.00193700
+2024-11-25 02:01:13,139 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:13,729 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:14,102 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:14,147 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:14,313 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:14,680 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:14,704 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:14,889 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:15,247 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:15,271 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:15,453 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:15,821 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:15,821 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:16,028 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:16,388 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:16,395 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:16,609 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:16,958 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:17,197 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:17,197 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:17,755 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:17,780 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:17,803 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:18,351 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:18,375 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:18,603 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:18,936 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:18,961 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:19,167 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:19,521 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:19,521 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:20,002 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:20,080 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:20,335 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:20,570 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:20,660 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:20,899 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:21,130 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:21,212 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:21,454 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:21,691 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:21,770 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:22,285 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:22,338 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:22,504 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:22,868 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:22,912 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:23,310 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:23,417 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:23,467 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:24,005 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:24,149 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:24,306 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:24,717 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:24,818 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:24,878 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:25,300 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:25,375 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:25,703 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:25,872 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:26,207 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:26,445 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:26,544 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:26,780 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:27,020 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:27,110 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:27,630 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:27,854 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:28,428 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:28,661 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:28,997 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:29,204 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:29,495 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:29,573 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:29,759 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:30,080 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:30,160 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:30,326 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:30,640 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:30,908 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:30,991 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:31,468 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:31,543 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:32,079 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:32,126 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:32,222 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:32,653 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:32,794 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:32,938 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:33,217 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:33,371 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:33,777 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:33,777 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:34,196 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:34,351 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:34,379 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:34,932 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:34,960 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:35,058 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:35,515 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:35,613 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:36,178 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:36,357 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:36,543 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:36,740 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:36,944 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:37,307 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:37,371 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:37,526 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:37,881 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:37,944 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:38,104 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:38,443 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:38,487 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:38,696 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:38,999 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:39,043 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:39,254 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:39,574 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:39,619 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:39,817 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:40,207 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:40,383 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:40,406 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:40,778 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:40,958 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:41,228 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:41,351 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:41,519 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:41,812 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:41,919 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:42,094 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:42,380 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:42,756 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:42,943 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:42,952 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:43,314 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:43,503 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:43,535 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:43,869 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:44,063 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:44,119 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:44,457 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:44,642 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:44,711 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:45,027 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:45,203 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:45,277 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:45,592 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:45,860 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:46,013 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:46,420 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:46,427 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:46,564 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:47,008 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:47,250 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:47,571 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:47,833 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:48,115 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:48,132 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:48,399 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:48,697 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:48,940 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:49,273 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:49,474 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:49,735 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:50,037 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:50,102 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:50,316 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:50,876 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:50,923 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:51,453 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:51,493 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:52,026 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:52,090 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:52,618 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:52,659 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:53,182 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:53,226 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:53,769 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:53,788 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:53,883 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:54,350 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:54,366 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:54,441 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:54,916 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:54,916 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:54,994 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:55,496 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:55,544 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:56,121 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:56,332 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:56,503 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:56,702 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:57,071 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:57,169 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:57,276 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:57,623 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:57,850 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:58,009 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:58,195 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:58,411 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:58,596 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:58,769 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:58,975 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:59,604 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:01:59,804 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:00,183 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:00,378 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:00,442 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:00,757 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:00,952 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:01,262 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:01,332 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:01,533 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:01,910 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:02,105 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:02,107 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:02,683 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:02,932 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:03,279 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:03,485 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:03,766 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:03,858 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:04,323 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:04,323 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:04,689 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:04,903 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:04,911 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:05,266 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:05,481 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:05,746 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:05,834 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:06,075 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:06,318 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:06,399 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:06,650 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:06,956 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:07,490 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:07,519 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:07,920 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:08,314 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:08,321 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:08,883 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:08,893 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:09,448 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:09,448 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:09,525 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:10,025 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:10,025 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:10,091 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:10,609 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:10,621 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:10,914 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:11,439 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:11,439 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:11,739 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:12,010 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:12,256 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:12,309 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:12,757 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: RAY
+  Reason: momentum_exit
+  Entry: $5.86000000
+  Exit: $5.87000000
+  P/L: 0.17%
+  Hold Time: 429.4 seconds
+  Peak Price: $5.88000000
+  Volatility: 0.0002
+2024-11-25 02:02:52,368 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:52,955 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:53,169 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:53,525 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:54,096 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:54,916 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:55,015 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:55,489 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:55,590 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:56,054 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:57,178 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:57,622 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:57,738 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:58,211 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:58,328 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:58,783 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:59,168 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:02:59,734 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:00,302 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:00,366 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:00,864 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:01,689 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:01,945 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:02,266 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:02,481 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:03,041 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:03,093 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:03,619 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:03,939 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:04,195 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:04,523 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:04,762 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:05,088 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:05,333 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:05,661 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:06,478 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:06,916 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:07,497 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:08,050 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:08,072 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:08,629 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:08,647 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:09,208 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:09,208 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:09,783 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:09,790 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:10,366 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:10,373 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:10,916 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:10,973 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:11,559 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:11,760 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:12,139 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:12,328 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:12,711 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:12,909 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:13,276 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:13,735 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:13,853 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:14,309 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:14,440 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:15,271 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:15,915 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:16,093 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:16,489 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:16,667 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:17,046 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:17,249 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:17,871 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:18,090 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:18,905 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:19,467 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:19,737 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:20,055 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:20,319 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:20,612 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:20,880 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:21,183 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:21,718 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:21,734 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:22,293 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:22,322 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:22,881 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:23,128 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:23,460 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:23,991 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:24,030 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:24,571 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:25,122 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:25,695 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:25,879 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:26,705 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:27,256 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:27,281 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:27,816 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:27,863 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:28,386 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:28,956 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:29,406 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:29,538 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:30,104 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:30,228 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:30,688 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:31,055 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:31,255 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:31,822 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:31,888 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:32,682 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:32,706 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:33,259 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:33,276 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:33,820 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:33,866 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:35,385 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:35,427 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:36,002 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:36,573 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:37,136 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:37,681 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:38,498 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:38,998 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:39,072 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:39,581 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:39,620 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:40,396 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:40,454 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:41,248 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:41,266 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:41,831 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:41,831 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:42,399 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:42,431 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:42,963 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:43,005 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:43,545 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:43,570 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:44,136 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:44,362 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:44,720 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:44,931 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:45,281 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:45,505 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:45,857 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:46,081 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:46,424 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:46,904 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:47,489 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:47,996 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:48,054 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:48,838 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:48,878 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:49,416 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:03:51,007 - analysis_agent - ERROR - Failed to fetch price: 429
+2024-11-25 02:05:04,108 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: LUMIO
+  Entry: $0.00015540
+2024-11-25 02:05:04,116 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00056090
+2024-11-25 02:05:04,118 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: OPOS
+  Entry: $0.36770000
+2024-11-25 02:05:06,634 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BABYSOL
+  Reason: stop_loss
+  Entry: $0.00056090
+  Exit: $0.00053910
+  P/L: -3.89%
+  Hold Time: 2.5 seconds
+2024-11-25 02:05:06,686 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: OPOS
+  Reason: quick_profit
+  Entry: $0.36770000
+  Exit: $0.38380000
+  P/L: 4.38%
+  Hold Time: 2.6 seconds
+2024-11-25 02:05:07,726 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: LUMIO
+  Reason: stop_loss
+  Entry: $0.00015540
+  Exit: $0.00015210
+  P/L: -2.12%
+  Hold Time: 3.6 seconds
+2024-11-25 02:06:25,982 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: LUMIO
+  Entry: $0.00015540
+2024-11-25 02:06:25,989 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00056090
+2024-11-25 02:06:25,989 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: OPOS
+  Entry: $0.36770000
+2024-11-25 02:06:28,445 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: LUMIO
+  Reason: stop_loss
+  Entry: $0.00015540
+  Exit: $0.00015140
+  P/L: -2.57%
+  Hold Time: 2.5 seconds
+2024-11-25 02:06:28,485 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BABYSOL
+  Reason: stop_loss
+  Entry: $0.00056090
+  Exit: $0.00053910
+  P/L: -3.89%
+  Hold Time: 2.5 seconds
+2024-11-25 02:06:28,532 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: OPOS
+  Reason: quick_profit
+  Entry: $0.36770000
+  Exit: $0.38380000
+  P/L: 4.38%
+  Hold Time: 2.5 seconds
+2024-11-25 02:10:55,235 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00570100
+2024-11-25 02:10:55,236 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: LUMIO
+  Entry: $0.00015410
+2024-11-25 02:10:55,238 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00052510
+2024-11-25 02:10:57,505 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: LUMIO
+  Reason: stop_loss
+  Entry: $0.00015410
+  Exit: $0.00015040
+  P/L: -2.40%
+  Hold Time: 2.3 seconds
+2024-11-25 02:11:40,082 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00570100
+2024-11-25 02:11:40,082 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: LUMIO
+  Entry: $0.00015410
+2024-11-25 02:11:40,082 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00052510
+2024-11-25 02:11:42,628 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: LUMIO
+  Reason: stop_loss
+  Entry: $0.00015410
+  Exit: $0.00015040
+  P/L: -2.40%
+  Hold Time: 2.5 seconds
+2024-11-25 02:11:57,873 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00570100
+2024-11-25 02:11:57,878 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: LUMIO
+  Entry: $0.00015410
+2024-11-25 02:11:57,878 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BABYSOL
+  Entry: $0.00052510
+2024-11-25 02:11:59,945 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: LUMIO
+  Reason: stop_loss
+  Entry: $0.00015410
+  Exit: $0.00015040
+  P/L: -2.40%
+  Hold Time: 2.1 seconds
+2024-11-25 02:19:50,261 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: SOLSZN
+  Entry: $0.00045580
+2024-11-25 02:20:58,017 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: JENSEN
+  Entry: $0.00108600
+  Analysis: 1/12 in current window
+2024-11-25 02:20:58,023 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BUSHBABY
+  Entry: $0.00006404
+  Analysis: 2/12 in current window
+2024-11-25 02:20:58,027 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: MIMU
+  Entry: $0.00024170
+  Analysis: 3/12 in current window
+2024-11-25 02:20:58,027 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:20:58,027 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:20:58,033 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:20:58,542 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:20:58,542 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:20:58,542 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:20:59,058 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:20:59,058 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:20:59,061 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:20:59,580 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:20:59,581 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:20:59,581 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:00,080 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:00,080 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:00,082 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:00,590 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:00,590 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:00,590 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:01,097 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:01,097 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:01,097 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:01,612 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:01,614 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:01,614 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:02,128 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:02,128 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:02,128 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:02,638 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:02,638 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:02,638 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:03,145 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:03,145 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:03,145 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:03,656 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:03,656 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:03,656 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:04,162 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:04,162 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:04,162 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:04,670 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:04,671 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:04,671 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:05,174 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:05,174 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:05,174 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:05,679 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:05,679 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:05,679 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:06,185 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:06,186 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:06,186 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:06,694 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:06,696 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:06,698 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:07,186 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:07,202 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:07,204 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:07,696 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:07,720 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:07,720 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:08,192 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:08,225 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:08,225 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:08,701 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:08,720 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:08,721 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:09,209 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:09,235 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:09,236 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:09,709 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:09,753 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:09,753 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:10,214 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:10,246 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:10,248 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:10,730 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:10,754 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:10,754 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:11,251 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:11,251 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:11,251 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:11,763 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:11,765 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:11,765 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:12,268 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:12,269 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:12,269 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:12,775 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:12,775 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:12,775 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:13,281 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:13,282 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:13,282 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:13,792 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:13,792 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:13,794 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:14,310 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:14,310 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:14,310 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:14,814 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:14,815 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:14,815 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:15,316 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:15,327 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:15,332 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:15,832 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:15,834 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:15,835 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:16,345 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:16,345 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:16,345 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:16,854 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:16,854 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:16,854 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:17,362 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:17,362 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:17,362 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:17,867 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:17,867 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:17,867 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:18,371 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:18,371 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:18,371 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:18,878 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:18,878 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:18,878 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:19,384 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:19,384 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:19,387 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:19,899 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:19,900 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:19,900 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:20,401 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:20,401 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:20,404 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:20,918 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:20,918 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:20,922 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:21,433 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:21,437 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:21,437 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:21,948 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:21,948 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:21,948 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:22,452 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:22,452 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:22,455 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:22,964 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:22,964 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:22,964 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:23,465 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:23,467 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:23,468 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:23,983 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:23,985 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:23,986 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:24,500 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:24,501 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:24,501 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:25,016 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:25,017 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:25,017 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:25,520 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:25,521 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:25,522 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:26,024 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:26,024 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:26,024 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:26,533 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:26,534 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:26,534 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:27,050 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:27,050 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:27,050 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:27,558 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:27,558 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:27,558 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:28,060 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:28,060 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:28,060 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:28,574 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:28,574 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:28,574 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:29,084 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:29,084 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:29,086 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:29,591 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:29,591 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:29,591 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:30,095 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:30,095 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:30,095 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:30,600 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:30,600 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:30,600 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:31,096 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:31,096 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:31,096 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:31,611 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:31,612 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:31,612 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:32,116 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:32,118 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:32,118 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:32,626 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:32,627 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:32,627 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:33,134 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:33,134 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:33,134 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:33,650 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:33,652 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:33,652 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:34,163 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:34,163 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:34,163 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:34,664 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:34,664 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:34,666 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:35,163 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:35,187 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:35,187 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:35,665 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:35,697 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:35,699 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:36,164 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:36,201 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:36,201 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:36,681 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:36,710 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:36,712 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:37,208 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:37,208 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:37,208 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:37,713 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:37,713 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:37,713 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:38,217 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:38,217 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:38,217 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:38,724 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:38,724 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:38,724 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:39,234 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:39,235 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:39,235 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:39,742 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:39,742 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:39,746 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:40,232 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:40,232 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:40,264 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:40,748 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:40,750 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:40,752 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:41,261 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:41,262 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:41,262 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:41,766 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:41,767 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:41,767 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:42,267 - analysis_agent - ERROR - Error monitoring BxWiZiHzQSHU4EeryKxD6h1zQ9qQ2qk6w1qDDgdMpump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:42,267 - analysis_agent - ERROR - Error monitoring GS9WFoeF7xWE7KtFnuhRQmR1DoX1Db6spy52svw5pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:42,267 - analysis_agent - ERROR - Error monitoring HazQxMX9BhGNJjn3cicJXdgsMbP493JLyFMU2tG6pump: 'AnalysisAgent' object has no attribute '_fetch_price'
+2024-11-25 02:21:48,408 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: JENSEN
+  Entry: $0.00104400
+  Analysis: 1/12 in current window
+2024-11-25 02:21:48,410 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BUSHBABY
+  Entry: $0.00006301
+  Analysis: 2/12 in current window
+2024-11-25 02:21:48,412 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: MIMU
+  Entry: $0.00024170
+  Analysis: 3/12 in current window
+2024-11-25 02:21:48,671 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: JENSEN
+  Reason: quick_profit
+  Entry: $0.00104400
+  Exit: $0.00108600
+  P/L: 4.02%
+  Hold Time: 0.3 seconds
+2024-11-25 02:23:48,794 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: MIMU
+  Reason: timeout
+  Entry: $0.00024170
+  Exit: $0.00024270
+  P/L: 0.41%
+  Hold Time: 120.4 seconds
+2024-11-25 02:23:48,865 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BUSHBABY
+  Reason: timeout
+  Entry: $0.00006301
+  Exit: $0.00006227
+  P/L: -1.17%
+  Hold Time: 120.5 seconds
+2024-11-25 02:32:33,604 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: JENSEN
+  Entry: $0.00080580
+  Analysis: 1/12 in current window
+2024-11-25 02:32:33,616 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BUSHBABY
+  Entry: $0.00005781
+  Analysis: 2/12 in current window
+2024-11-25 02:32:33,616 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: MIMU
+  Entry: $0.00023950
+  Analysis: 3/12 in current window
+2024-11-25 02:32:33,935 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BUSHBABY
+  Reason: quick_stop
+  Entry: $0.00005781
+  Exit: $0.00005683
+  P/L: -1.70%
+  Hold Time: 0.3 seconds
+2024-11-25 02:33:05,275 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: JENSEN
+  Reason: stop_loss
+  Entry: $0.00080580
+  Exit: $0.00074000
+  P/L: -8.17%
+  Hold Time: 31.7 seconds
+2024-11-25 02:34:33,971 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: MIMU
+  Reason: timeout
+  Entry: $0.00023950
+  Exit: $0.00023870
+  P/L: -0.33%
+  Hold Time: 120.4 seconds
+2024-11-25 02:37:58,601 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: JENSEN
+  Entry: $0.00065090
+  Analysis: 1/12 in current window
+2024-11-25 02:37:58,608 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BUSHBABY
+  Entry: $0.00006404
+  Analysis: 2/12 in current window
+2024-11-25 02:37:58,608 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: $ORCANIZE
+  Entry: $0.00008886
+  Analysis: 3/12 in current window
+2024-11-25 02:37:59,141 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: JENSEN
+  Reason: quick_stop
+  Entry: $0.00065090
+  Exit: $0.00063430
+  P/L: -2.55%
+  Hold Time: 0.5 seconds
+2024-11-25 02:38:23,706 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:38:23,753 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:38:25,225 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:38:25,285 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:38:26,738 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:38:26,820 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:38:28,287 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:38:28,357 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:38:29,800 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:38:29,890 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:38:31,353 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:38:31,397 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:38:32,888 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:38:32,918 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:38:34,434 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:38:34,458 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 02:40:20,316 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: JENSEN
+  Entry: $0.00073580
+  Analysis: 1/12 in current window
+2024-11-25 02:40:20,321 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: BUSHBABY
+  Entry: $0.00007466
+  Analysis: 2/12 in current window
+2024-11-25 02:40:20,323 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: $ORCANIZE
+  Entry: $0.00008886
+  Analysis: 3/12 in current window
+2024-11-25 02:40:20,588 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: JENSEN
+  Reason: quick_stop
+  Entry: $0.00073580
+  Exit: $0.00072350
+  P/L: -1.67%
+  Hold Time: 0.3 seconds
+2024-11-25 02:42:20,578 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: $ORCANIZE
+  Reason: timeout
+  Entry: $0.00008886
+  Exit: $0.00008886
+  P/L: 0.00%
+  Hold Time: 120.3 seconds
+2024-11-25 02:42:55,444 - analysis_agent - INFO - 
+[EXIT SIGNAL]
+  Token: BUSHBABY
+  Reason: take_profit
+  Entry: $0.00007466
+  Exit: $0.00008159
+  P/L: 9.28%
+  Hold Time: 155.1 seconds
+2024-11-25 13:36:37,072 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: pong
+  Entry: $0.00007181
+  Analysis: 1/12 in current window
+2024-11-25 13:36:37,075 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: LUKE
+  Entry: $0.00006071
+  Analysis: 2/12 in current window
+2024-11-25 13:36:37,077 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: JENSEN
+  Entry: $0.00067840
+  Analysis: 3/12 in current window
+2024-11-25 13:37:07,696 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:37:07,848 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:37:08,012 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:37:09,252 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:37:09,405 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:37:09,559 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:37:10,821 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:37:10,964 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:37:11,122 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:37:12,386 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:37:12,524 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:37:12,678 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:37:13,979 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:37:14,217 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:37:14,313 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:08,809 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: pong
+  Entry: $0.00007137
+  Analysis: 1/12 in current window
+2024-11-25 13:38:08,814 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: LUKE
+  Entry: $0.00007100
+  Analysis: 2/12 in current window
+2024-11-25 13:38:08,819 - analysis_agent - INFO - 
+[MONITORING STARTED]
+  Token: hubSOL
+  Entry: $265.86000000
+  Analysis: 3/12 in current window
+2024-11-25 13:38:31,685 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:31,703 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:31,801 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:33,338 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:33,338 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:33,351 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:34,888 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:34,905 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:34,909 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:36,419 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:36,586 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:36,586 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:37,956 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:38,146 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:38,162 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:39,567 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:39,702 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:39,710 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:41,082 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:41,254 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:41,258 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:42,634 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:42,814 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:42,817 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:44,198 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:44,338 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:44,338 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:45,743 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:45,890 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:45,905 - analysis_agent - WARNING - Rate limit hit, waiting...
+2024-11-25 13:38:47,295 - analysis_agent - WARNING - Rate limit hit, waiting...
